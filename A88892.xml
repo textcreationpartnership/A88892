@@ -1,0 +1,612 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sacramental stumbling-block removed. Or a brief discourse concerning examination by the congregational eldership, before admittance to the sacrament. Wherein all contrary scruples are silenced : the equity and necessity of that duty vindicated, both by scripture, and undenyable arguments. Set forth for, 1. The satisfaction of the weake. 2. The information of the ignorant. 3. The conviction of the obstinate. 4. The edification of the Church of God. / by W.L.</title>
+            <author>L. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88892</idno>
+            <idno type="STC">Wing L96</idno>
+            <idno type="STC">Thomason E425_16</idno>
+            <idno type="STC">ESTC R204558</idno>
+            <idno type="EEBO-CITATION">99864035</idno>
+            <idno type="PROQUEST">99864035</idno>
+            <idno type="VID">116254</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88892)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116254)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E425[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sacramental stumbling-block removed. Or a brief discourse concerning examination by the congregational eldership, before admittance to the sacrament. Wherein all contrary scruples are silenced : the equity and necessity of that duty vindicated, both by scripture, and undenyable arguments. Set forth for, 1. The satisfaction of the weake. 2. The information of the ignorant. 3. The conviction of the obstinate. 4. The edification of the Church of God. / by W.L.</title>
+                  <author>L. W.</author>
+               </titleStmt>
+               <extent>[8], 42, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James and Joseph Moxon; for Henry Overton, and are to be sold at his Shop, in Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a final imprimatur and errata leaf.</note>
+                  <note>Annotation on Thomason copy: "Febr. 4."; the 8 in imprint date crossed out and date altered to 1647.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's Supper --  Congregational churches --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116254:1" rendition="simple:additions"/>
+            <p>The Sacramental STVMBLING-BLOCK <hi>Removed.</hi>
+            </p>
+            <p>Or a brief diſcourſe concerning <hi>Examination by the Congregational Eldership,</hi> before admittance to the Sacrament.</p>
+            <p>Wherein all contrary ſcruples are ſilenced: the Equi<g ref="char:EOLhyphen"/>ty and Neceſſity of that duty vindicated, both by Scripture, and undenyable Arguments.</p>
+            <p>Set forth for,
+<list>
+                  <item>1. <hi>The Satisfaction of the Weake.</hi>
+                  </item>
+                  <item>2. <hi>The Information of the Ignorant.</hi>
+                  </item>
+                  <item>3. <hi>The Conviction of the Obſtinate.</hi>
+                  </item>
+                  <item>4. <hi>The Edification of the Church of God.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>by W. L.</p>
+            <q>
+               <p>Caſt ye up, Caſt ye up, prepare the way, take up the Stumbling-block, out of the way of my people.</p>
+               <bibl>
+                  <hi>Iſa. 57.14.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Obey them that have rule over you, and ſubmit your ſelves for they watch for your ſoules, as they that muſt give account, that they may doe it with joy, and not with griefe: for that is unprofitable for you.</p>
+               <bibl>
+                  <hi>Heb. 13.7.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>But ſanctifie the Lord God in your hearts, and be ready alwaies to give an anſwer to every man that asks you a reaſon of the hope that is in you, with meekneſſe and fear.</p>
+               <bibl>
+                  <hi>1 Pet. 3.15.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>James</hi> and <hi>Joſeph Moxon;</hi> for <hi>Henry Over<g ref="char:EOLhyphen"/>ton,</hi> and are to be ſold at his Shop, in <hi>Popes-head Alley.</hi> 1648.</p>
+         </div>
+         <div type="to_the_Christian_reader">
+            <pb facs="tcp:116254:2"/>
+            <pb facs="tcp:116254:2"/>
+            <head>To the <hi>CHRISTIAN</hi> READER.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He grand confuſion and diſtraction of the Church, the great oppoſition that that ſo needfull and deſirable work of Reformati<g ref="char:EOLhyphen"/>on now meets with, together with the great preſſures now lying upon the ſpirits of ſuch as beare good will to the Peace and Proſperitie thereof, hath com<g ref="char:EOLhyphen"/>pelled me to the Preſſe. And although the unfitteſt of ten thouſands; yet by drawing this Bush in the Gappe, I may (by Gods bleſſing) not onely prevent that Devaſtation that (for ought I ſee) is like to follow; if not timely prevented: But alſo encourage ſome Maſter-builder, to repaire the Breaches with better Materialls, and more skilfull hand.</p>
+            <p>I call God to witneſſe, Nothing more moves me, then the love I beare to the Peace of the Church of Chriſt, and its Reformation ſo much endeavoured
+<pb facs="tcp:116254:2"/>both by Parliament and Synod, ſo much deſired by the Saints, ſo much oppugned and oppoſſed by Satan and his Inſtruments: and if by this contem<g ref="char:EOLhyphen"/>ptible clay; the Cure be in any good meaſure effected, I have my aime; and deſire thee with my ſelfe, to give the Glory to Jeſus Chriſt.</p>
+            <closer>
+               <signed>In whom I am thine, <hi>W. I.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:116254:3"/>
+            <head>A <hi>CATALOGVE</hi> of ſuch <hi>QVERIES</hi> and <hi>SCRVPLES,</hi> as are reſolved in the enſuing <hi>Diſcourſe.</hi>
+            </head>
+            <list>
+               <item>1. <hi>Obiect.</hi> WHat is meant by Reformation? <hi>Pag.</hi> 2.</item>
+               <item>2. <hi>Object.</hi> Was not the goverment of the Church by Bishops, &amp;c. according to the Word of God? they were Proteſtants; and we enjoyed far more peace in the Church then now: men enjoyed then the Ordinances without interruption, and doubtleſſe many thouſands went to heaven, by Gods bleſſing upon means then in uſe. <hi>Pag.</hi> 3.</item>
+               <item>3. <hi>Ob.</hi> But are there not ſome that create Church<g ref="char:EOLhyphen"/>es to themſelves? what think ye of them? <hi>Pag.</hi> 3.</item>
+               <item>4. <hi>Object.</hi> Can you make it appear, that the Govern<g ref="char:EOLhyphen"/>ment of the Church, by Paſtors, Teachers, Elders, &amp;c. is of Divine Inſtitution by the Word of God? <hi>Pag.</hi> 4.</item>
+               <item>5. <hi>Object.</hi> But what Elders are thoſe ſpoken of in thoſe Scriptures? are they lay Elders, or Eccleſiaſticall? <hi>Pag.</hi> 5.</item>
+               <item>6. <hi>Object.</hi> What is the Office of a ruling Elder? <hi>Pag.</hi> 5.</item>
+               <item>7. <hi>Object.</hi> But where I pray you, will men be found fit for ſuch weighty Imployments? <hi>Pag.</hi> 8.</item>
+               <item>8. <hi>Object.</hi> But why do they chooſe ſuch young
+<pb facs="tcp:116254:4"/>men, as in many places they have, and ſome of the meaner ſort? me thinks they should chuſe the moſt ancient and able men in the Parish, who would better become both the title and office of Elders. <hi>Pag.</hi> 9.</item>
+               <item>9. <hi>Object.</hi> Me thinks the Paſtors and Elders in Preſ<g ref="char:EOLhyphen"/>byterian Congregations, are neither rightly called, nor fitly qualified. <hi>Pag.</hi> 12.</item>
+               <item>10. <hi>Object. Q.</hi> But why muſt wee appeale to Claſſes? Have they any power to determine dif<g ref="char:EOLhyphen"/>ferences, and to reforme abuſes in particular Congre<g ref="char:EOLhyphen"/>gations? <hi>Pag.</hi> 13.</item>
+               <item>11. <hi>Object.</hi> But they ſay now, none muſt come to the Sacrament without Examination by the El<g ref="char:EOLhyphen"/>dership, which ſome hold to bee no better then a point of Popery; however its very needleſſe and ri<g ref="char:EOLhyphen"/>diculous for ancient men that have born all Offices in the Parish, and Church too, lived long under the meanes, often formerly admitted, now to be catechi<g ref="char:EOLhyphen"/>ſed like boyes: neither do I beleeve there is any rule for it in the Word: the Apoſtle ſaith, <hi>Let every man examine himſelfe, and ſo let him eat,</hi> &amp;c. 1 <hi>Cor.</hi> 11.28. <hi>Pag.</hi> 17.</item>
+               <item>12. <hi>Object.</hi> Methinks if they would catechiſe the young people, it would do well, but for ancient men that have received the Sacrament twenty or thirty years together, or more; that have born all Offices in both Church and Parish, to be now called to account like boyes; this cannot be endured. <hi>Pag.</hi> 25.</item>
+               <item>13. <hi>Ob.</hi> But muſt all men be examined? Cer<g ref="char:EOLhyphen"/>tainly ſome men are as able to examine the Elder<g ref="char:EOLhyphen"/>ship, as the Elders them; What need is there to examine ſuch? <hi>Pag.</hi> 26.</item>
+               <pb facs="tcp:116254:4"/>
+               <item>14. <hi>Ob.</hi> But muſt women alſo be examined? is there any rule for that in Scripture? <hi>Pag.</hi> 27.</item>
+               <item>15. <hi>Ob.</hi> Were it only to be examined by the Mi<g ref="char:EOLhyphen"/>niſter, it were not ſo much; but for a man or wo<g ref="char:EOLhyphen"/>man to come before ſo many, dashes them out of Countenance. <hi>Pag.</hi> 28.</item>
+               <item>16. <hi>Ob.</hi> Methinks it were ſufficient to ſuſpend the ſcandalous: <hi>Is</hi> there any ſuch need to keep off the ig<g ref="char:EOLhyphen"/>norant? Is not the Sacrament a converting Ordinance? <hi>Pag.</hi> 29.</item>
+               <item>17. <hi>Ob.</hi> But do you what you can, yet many cor<g ref="char:EOLhyphen"/>rupt men will be admitted. <hi>Pag.</hi> 29.</item>
+               <item>18. <hi>Ob.</hi> Surely were it a good work, and accord<g ref="char:EOLhyphen"/>ing to God, good Miniſters would promote it; but there are divers good Preachers about London, and in other parts of the Kingdom, that act little or nothing at all this way. <hi>Pag.</hi> 30.</item>
+               <item>19. <hi>Ob.</hi> But what if the King come home? think ye this Government will ſtand? <hi>Pag.</hi> 32.</item>
+               <item>20. <hi>Ob.</hi> Do ye not ſee how Parishes are divided about this buſineſſe? in divers places they are altoge<g ref="char:EOLhyphen"/>ther by the ears. <hi>Pag.</hi> 33.</item>
+               <item>21. <hi>Ob.</hi> But whats the reaſon ſo many Elders are choſen, in divers places and ſo few hold: not halfe in ſome places? <hi>Pag.</hi> 34.</item>
+               <item>22. <hi>Ob.</hi> But is it meet all men should come before the Eldership, to be examined before admittance? Me<g ref="char:EOLhyphen"/>thinks they should go to the houſes of ſome men of beſt rank, and converſe with them there. <hi>Pag.</hi> 35.</item>
+               <item>23. <hi>Ob.</hi> But if men and women muſt both be exa<g ref="char:EOLhyphen"/>mined, it may fall out a man may be found unfit, and
+<pb facs="tcp:116254:5"/>his wife may be received; ſome-time the man received and his wife unfit: what a kind of confuſion will this be? doth not the Apoſtle <hi>Paul</hi> lay, <hi>the unbeleeving wo<g ref="char:EOLhyphen"/>man is ſanct fied by the beleeving man, and the unbelee<g ref="char:EOLhyphen"/>ving man by the beleeving woman.</hi> 1 <hi>Cor.</hi> 7.14? <hi>Pag.</hi> 36.</item>
+               <item>24. <hi>Ob.</hi> What are the principal points, that will be enquired of by the Eldership, what time men come before them? <hi>Pag.</hi> 39.</item>
+               <item>25. <hi>Ob.</hi> What are the crimes that make un<g ref="char:EOLhyphen"/>apable of admittance, in point of ſcandal. <hi>Pag.</hi> 41.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:116254:5"/>
+            <head>THE SACRAMENTALL STVMBLING-BLOCK <hi>Removed.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as the Lord by unexpected and unſpeak<g ref="char:EOLhyphen"/>able providence, hath ſo compoſed the grand quar<g ref="char:EOLhyphen"/>rell of the Kingdom: that notwithſtanding the ſpi<g ref="char:EOLhyphen"/>rits of many the Arch Enemies of Church and King<g ref="char:EOLhyphen"/>dom are not ſubdued; yet their rage and mallice is ſo limited, that although like the ſurging untamed waves, they would a<g ref="char:EOLhyphen"/>gain break out, if not bounded, and their power ſo broken that the mightieſt <hi>Leviathans</hi> are now held by the Hooke of God.</p>
+            <p>That God hath alſo in this breath of time, put into the heart of Parliament and Synod, to ſettle a Government in the Church; having laid a good foundation of Reformation of corruptions in and about the Ordinances, Officers, and Admi<g ref="char:EOLhyphen"/>niſtrations thereof. And for that the ſpirits of men are won<g ref="char:EOLhyphen"/>derfully averſe to this ſo neceſſary a work, that although it have coſt ſo much time, treaſure, and blood, to bring to this maturitie: yet glad they would be to bring religion to a very hotch-potch, as appears by thoſe many vain and needleſs ſcru<g ref="char:EOLhyphen"/>ples and Stumbling-blocks which Satan; and ſuch men are e<g ref="char:EOLhyphen"/>very day caſting in to obſtruct.</p>
+            <p>I have thought good, as in duty every Chriſtian is bound, as
+<pb n="2" facs="tcp:116254:6"/>much as in them lies to help the Lord againſt the mighty, and that no man that truly deſires ſatisfaction may miſſe of it: I have endeavoured to enumerate all ſuch objections as have any ſhadow of reaſon; that the ignorant may be informed, the wilfull convinced, and the weak Chriſtian ſatisfied, that ſo the Church may be edified, and God glorified.</p>
+            <p>And that I may not be tedious, I ſhall without more adoe, lay down theſe following Truths, which by Gods grace I ſhall vindicate againſt all oppoſers,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> That Reformation of corruptions in the Church of God is of abſolute neceſſity: although not to the being, yet to the well being thereof, and that as well in Diſcipline, as Doctrine.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> That the Government of the Church by Paſtors, Teachers, and Elders, is of Divine inſtitution.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> That although all men ought to hear the word, yet neither the ignorant nor prophane ought to be admitted to the Sacra<g ref="char:EOLhyphen"/>ment of the Lords Supper.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> That ſelf examination although a duty of abſolute neceſſitie in every Communicant, yet its not all required, And that Examination by the Elderſhip, is both grounded upon Scri<g ref="char:EOLhyphen"/>pture, and good reaſon.</p>
+            <p>
+               <hi>For the Firſt.</hi>
+            </p>
+            <p>That Reformation of corruptions in the Church of God, is of abſolute neceſſitie, &amp;c. is granted of all; therefore needs no diſpute: only,</p>
+            <p n="1">1. Q. <hi>What is meant by Reformation?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The bringing of the Church and worſhip of God, to as neer a conformitie to the minde and will of God, and to the primative Inſtitution as may be, both by caſting out corrupti<g ref="char:EOLhyphen"/>ons, and by ſupply of defects in and about the Ordinances, Ad<g ref="char:EOLhyphen"/>miniſtrations, Officers, and Members thereof.</p>
+            <p n="2">2. Object. <hi>Was not the government of the Church by Bi<g ref="char:EOLhyphen"/>ſhops, &amp;c. according to the Word of God: they were Prote<g ref="char:EOLhyphen"/>ſtants; and we enjoyed far more peace in the Church then now:
+<pb n="3" facs="tcp:116254:6"/>men enjoyed then the Ordinances without interruption, and doubtleſſe many thouſands went to heaven, by Gods bleſſing up<g ref="char:EOLhyphen"/>on means then in uſe.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I ſhall nor need now to ſpend time about that Argu<g ref="char:EOLhyphen"/>ment of the Government by Biſhops and their Subſtitutes: a<g ref="char:EOLhyphen"/>bundance of ſatisfaction having by divers been given to that point. True it is, they were Proteſtant Biſhops in point of Doctrine, if we look upon the Doctrine of the Church, gene<g ref="char:EOLhyphen"/>rally owned: but their ſtanding was not of Divine Right, both Parliament and Synod having long ſince condemned that Hyrarchy: without doubt, that Lordly Prelacy over Gods heritage, being quite contrary to the word of God, 1 <hi>Pet.</hi> 5.3. <hi>Neither being as Lords over Gods heritage, but being examples to the flock.</hi> Its true, we enjoyed much Peace, becauſe the ſtrong man kept poſſeſſion, none daring to queſtion their pro<g ref="char:EOLhyphen"/>ceedings, though never ſo impious: but when the Lord called them to account for their oppreſſion and tyranny, and that Sa<g ref="char:EOLhyphen"/>tan ſaw his Kingdom begin to ſhake, he muſtered up all his ſervants to his ſupport, which hath made our times ſo trouble<g ref="char:EOLhyphen"/>ſome. And although many by Gods bleſſing upon means and Ordinances then in uſe, were ſaved, this we muſt attribute to the work of Gods ſpirit, and to God owning his own Ordinan<g ref="char:EOLhyphen"/>ces in the midſt of much corruption.</p>
+            <p>This therefore makes not at all againſt caſting out abuſes crept into the Church, neither can we expect ſo great a work as the turning of Church and State up-ſide down, can be done without much combuſtion, eſpecially conſidering how moſt men are apt to be led by cuſtom, though never ſo corrupt, and its a ſpecial mercy, conſidering how many grand Enemies we have had to do withall, that God hath put ſo timely a period to our old troubles: I pray God our corrupt hearts, and cauſe<g ref="char:EOLhyphen"/>leſſe contentions, provoke him not to puniſh us yet ſeven times more.</p>
+            <p n="3">3. Object. <hi>But are there not ſome that create Churches to themſelves? what think ye of them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I think if they deny our Congregations to be true Churches, they are erronious; and if they do not, their ſepa<g ref="char:EOLhyphen"/>ration
+<pb n="4" facs="tcp:116254:7"/>the more unlawfull: And I think, as there is many gon from us, becauſe they were not of us; ſo many are joyned to other aſſemblies, becauſe our Government was ſo long before ſetled, being too impatient to wait Gods leiſure. Such men ſurely forgot the <hi>Iſraelites</hi> were forty years together without the Paſſeover, all the while they were in the Journy to Canaan, had they but well eyed the Church, they might have ſeen it (ſome years together) in a wilderneſſe of diſtraction, but ſtill no way to Reformation, and therefore ought rather to have waited till God had brought them into the deſired Land, then to turn their backs upon that work which fares the worſe for their departure: many thouſands are gone, that would (had they continued) have much added to the viſible beauty of the Church, who are juſtly to be blamed: God and man looking for Reformation, not Separation: And its no marvell God ſo much confounds their Language, who will be building Babels to themſelves.</p>
+            <p>
+               <hi>For the Second,</hi> That Paſtors, Teachers, Elders, &amp;c.</p>
+            <p n="4">4. Object. <hi>Can you make it dppear, that the Government of the Church, by Paſtors, Teachers, Elders, &amp;c. is of Divine Inſtitution by the Word of God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yea, By divers places of Scripture, as 1 <hi>Tim.</hi> 4.14. the Apoſtle there ſaith, <hi>neglect not the gift that is in you, which was given with the laying on of the hands of the Tresbytery.</hi> Again 1 Cor. 12. <hi>and God hath ſet ſome in the Church, firſt Apoſtles, ſecundarily Prophets, thirdly, Teachers, after that miracles, then gifts of healing, helps in Government, &amp;c.</hi> viz. men fit<g ref="char:EOLhyphen"/>ted with ſeverall gifts ſuitable to the ſeverall ages of the Church.</p>
+            <p>Again, 1 Tim. 5.17. <hi>Let the Elders that rule well be counted worthy of double honour, eſpecially they who labour in the word and doctrine.</hi>
+            </p>
+            <p>Likewiſe 1 <hi>Pet.</hi> 5.1. <hi>The Elders that are among you, I exhort, who alſo am an Elder, and a witneſſe of the ſufferings of Chriſt.</hi>
+            </p>
+            <pb n="5" facs="tcp:116254:7"/>
+            <p>So alſo Rom. 12.6, 7, 8. <hi>Having gifts differing,</hi> &amp;c. by all which places its apparent That the government of the Church, by Paſtors, Teachers, Elders, &amp;c. is according to God: that their Offices are alſo diſtinct, the Scriptures are ſo plaine, they need no interpretation: ſome rule, ſome labour in the word and doctrine.</p>
+            <p n="5">5. Object. <hi>But what Elders are thoſe ſpoken of in thoſe Scriptures? are they lay Elders, or Eccleſiaſticall?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The word of God makes no ſuch diſtinction: I do not read in any place of Scripture of either Lay or Eccleſiaſtique; but Elders, they were endowed extraoadinarily with ſeverall gifts, ſome to labour in the word and doctrine, although in that fence we take Lay, viz. for Tradeſmen; I beleeve ſuch for the moſt part, if not all, were the Elders in the Church of Chriſt in thoſe times: And therefore it is, that the ſeparate Churches rather queſtion our Eccleſiaſtique Elders, then the Lay, to be of Divine Right. On the otherſide, by reaſon our Churches have been governed by men devoted and ſet apart to the Miniſtery, many think there ought to be no other but Eccle<g ref="char:EOLhyphen"/>ſiaſticall. I ſhall adhere with neither of them, but ſay with all Reformed Churches, that let men be gifted by God, whether by ordinary or extraordinary means, let them have a lawfull call to the function, whether Lay or Eccleſiaſtique, they are of Divine inſtitution: only we muſt not expect all to be alike qualified, ſome gifted for the Miniſtery, others for Diſcipline, Order, Government; and others Church Adminiſtrations.</p>
+            <p n="6">6. Object. <hi>What is the Office of a ruling Elder?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> According to their ſeverall titles in Scripture, ſo is their Office, and imployment: they are called Governours, Rulers, Overſeers, Stewards, Watchmen, &amp;c. and their Office is,</p>
+            <p n="1">1. To govern and direct perſons and things in the Church, and therefore the Apoſtle reproves, thoſe that deſpiſe Govern<g ref="char:EOLhyphen"/>ment, in that 2 Pet. 2.10. but chiefly them that walk after the fleſh in the luſt of uncleanneſſe, and diſpiſe Government: and indeed who are there diſpiſe Government, more then diſſolute vain perſons?</p>
+            <p>1 Cor. 12.28. They are called <hi>Helps in Government,</hi> viz.
+<pb n="6" facs="tcp:116254:8"/>ſuch as together with the Paſtor govern the Church; therefore 1 <hi>Tim.</hi> 5.17. <hi>Elders that rule well are worthy of double honour.</hi>
+            </p>
+            <p n="2">2. As Stewards and Overſeers, they are to ſee the Lawes of their Maſters houſe obſerved,<note place="margin">Luk. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.41. 1 Pet. 4.10.</note> to whom they muſt give account, and give each his portion: 1 Cor. 4.1. <hi>Let a man ſo account of as, as Stewards,</hi> &amp;c. or diſpenſors, verſ. 2. <hi>Moreover its required of a Steward, that he be found juſt and faithfull:</hi> ſo alſo, Heb 13.17. <hi>Obey them that have the overſight of you, and ſubmit your ſelves, for they watch for your ſoules, as they that muſt give account, that they may do it with joy, and not with griefe, for that is unprofitable for you.</hi>
+            </p>
+            <p n="3">3. Their duty or office is, to edifie the body of Chriſt. <hi>(viz.)</hi> the Church, and this is the end why the Lord gave ſeverall gifts to thoſe that had the Charge of the Church committed to them. Epheſ. 4.12. So alſo, 1 Cor. 14.12.</p>
+            <p n="4">4. They ought to keep the Doctrine Diſcipline, and Ordi<g ref="char:EOLhyphen"/>nances, of the Church from corruption, the Church as much as in them lies, from ſcandall: 1 Cor. 11.2. <hi>Now I pray you brethren, that you remember me in all things, and keep the Ordi<g ref="char:EOLhyphen"/>nances as I deliver them to you.</hi> The Apoſtle ſpeaks here to thoſe that had power in the Church, and commends them for keeping the Ordinances and diſpenſations of the Church pure.</p>
+            <p>Again, 1 Cor. 5.7. <hi>Purge out therefore the old leven, that ye may be a new lump as ye are unleavened.</hi>
+            </p>
+            <p n="5">5. Their Office is to redreſſe abules in the Church, order<g ref="char:EOLhyphen"/>ing the affairs thereof decently, as in the 1 Cor. 14.33. for God is not the Author of confuſion, but of peace; as in all the Chur<g ref="char:EOLhyphen"/>ches of the Saints: implying all the Churches of the Saints, are kept in good order: verſ. 40. <hi>Let all things be done decent<g ref="char:EOLhyphen"/>ly, and in order.</hi>
+            </p>
+            <p n="6">6. They are to end controverſies, and to make peace, to help the weake, to reſtore the penitent, and to encorage every one in the wayes of peace and righteouſneſſe.</p>
+            <p>As in the 1 Cor. 6.5. <hi>I ſpeak it to your ſhame, is it ſo, that there is not a wiſe man among you, no not one, that ſhall be able to judge between his brethren, but a brother goeth to Law with a brother?</hi> &amp;c.</p>
+            <pb n="7" facs="tcp:116254:8"/>
+            <p>1 Cor. 10.32. <hi>Give no offence, neither to the Jew, nor to the Gentile, nor to the Church of God.</hi>
+            </p>
+            <p>
+               <hi>Philip.</hi> 2.3. <hi>Let nothing be done through ſtrife, or vain glo<g ref="char:EOLhyphen"/>ry, but in lowlineſſe of minde, Let each eſteem others better then himſelfe.</hi>
+            </p>
+            <p>It was the ſin of the ſhepheards of <hi>Iſrael,</hi> to neglect their duty, <hi>Ezek.</hi> 34.4. <hi>the diſeaſed have ye not ſtrengthned, nei<g ref="char:EOLhyphen"/>ther have ye healed that which was ſick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye ſought that which was loſt, but with force and with cruelty have ye ruled them.</hi> And indeed, this was the greatſin of our Epiſcopal Hyrarchy, and of too too many of our idle ſhepherds under them: the Lord re<g ref="char:EOLhyphen"/>form it in ſucceding times.</p>
+            <p n="7">7. Their duty is to viſite the ſick, eſpecially when ſent for, and to pray for them, and give comfort to them: <hi>James</hi> 5.14. <hi>If any be ſick among you, let him call for the Elders of the Church, and let them pray over him, anointing him with oyle in the Name of the Lord:</hi> and although this unction be now out of uſe; yet with ſubjection, I may ſay the Apoſtle intends that Prayer ought not to goe alone, without applying lawfull means, which indeed ought to be ſanctifyed by the Word and Prayer.</p>
+            <p n="8">8. Their office is, to admit ſuch as are ſit, and to ſuſpend the unworthy from the Sacrament of the Lords ſupper: 1 Cor. 5.5. <hi>To deliver ſuch a one to Satan, for the deſtruction of the fleſh, that the Spirit may be ſaved, in the day of the Lord Jeſus.</hi> verſ. 11. <hi>If any that is called a brother, be a fornicator, or covetuous, or a drunkard, or an Extortioner, with ſuch a one eat not.</hi> verſ. 13. <hi>Therefore put away from you, that wicked perſon.</hi>
+            </p>
+            <p n="9">9. They ought to admit, or diſmiſſe Officers in the Church, as occaſion is offered, and theſe joyntly: Act. 6.6. <hi>And when they had prayed, they laid their hands upon them,</hi> &amp;c. verſe 2. <hi>Look ye out ſeven men of honeſt report, full of the Holy Ghoſt, and wiſdom; whom we may appoint over this buſineſſe.</hi>
+            </p>
+            <p>So that by all that hath been ſaid, it ſufficiently appears, that Paſtors, Teachers, and Elders, their Titles, Offices, and Imploy<g ref="char:EOLhyphen"/>ment,
+<pb n="8" facs="tcp:116254:9"/>in and about Church Adminiſtrations, are of Divine In<g ref="char:EOLhyphen"/>ſtitution: and that they had need to be Godly, and diſcreet.</p>
+            <p n="7">7. Object. <hi>But where I pray you, will men be found fit for ſuch weighty Imployments?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Indeed there are none ſufficient for theſe things, the beſt of men in all ages have been ſhort of what they ought to be: we cannot expect perfection in this life, the moſt precious ſubject to manifold infirmities; all may ſay with the Apoſtle, 2 Cor. 2.16. <hi>Who is ſufficient for theſe things?</hi>
+            </p>
+            <p>Yet bleſſed be God, we have to do with him that is willing to paſſe by the weakneſſes of his ſervants, and is alſo able to furniſh all ſuch whom he calls to his work with ſutable abili<g ref="char:EOLhyphen"/>ties and qualifications: And herein the ſervants of God, have found much comfort, and with the Apoſtle have had occaſion to ſay, (and that truly) that they are able to do all things through Chriſt, that ſtrengthens them. And although none call'd to the work can be in every degree fit, or peradventure many call'd may have meaner parts then ſome others not call<g ref="char:EOLhyphen"/>ed; and notwithſtanding all choſen are not alike quallified, yet where the Call is good, the heart upright to the work, there will not want a competent ſupply from him that gives to all liberally, and ſeverally qualities for the good of his Church: and indeed, thoſe that are moſt able, if they think themſelves ſuffici<g ref="char:EOLhyphen"/>ent, know nothing: Therefore it becomes the beſt, to ſee and ſay with the Apoſtle, &amp;c. 2. Cor. 3.5. <hi>Not that we are ſufficient of our ſelves, to think any thing as of our ſelves, but our ſuffici<g ref="char:EOLhyphen"/>ency is of God.</hi> Neither would I have men too much ſtumble at their own inſufficiency, ſo as to diſpair either of ſupply or ſuc<g ref="char:EOLhyphen"/>ceſſe, if rightly call'd, and of upright hearts: but in midſt of all diſcouragements, ſincerely endeavour to improve the ſmall talent received, reſting upon God, for he that hath ſaid, 2 Cor. 12.9. <hi>My grace is ſufficient.</hi> Hath alſo ſaid, <hi>I will never fail thee, nor forſake thee,</hi> Heb. 13.5.</p>
+            <p n="2">2. We have experience that through mercy, many able and honeſt men are called to this work, and have lovingly ac<g ref="char:EOLhyphen"/>cepted the Truſt; who I doubt not but will receive ſufficient teſtimony of Gods preſence with them, by their dayly improve<g ref="char:EOLhyphen"/>ment.</p>
+            <pb n="9" facs="tcp:116254:9"/>
+            <p n="3">3. There is this remedy if men unfit or unable be choſen, they are to paſſe thorow examination; and if found unfit, are in a competent time to be excepted againſt, whether it be for ignorance or ſcandall, they are to be remedied and ſitter choſen.</p>
+            <p n="8">8. Object. <hi>But why doe they chooſe ſuch young men, as in many places they have; and ſome of the meaner ſort? me thinks they ſhould chuſe the moſt ancient and able men in the Pariſh, who would better become both the title and office of Elders.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are not called Elders with reſpect to their age, but office: and although it were very comendable if men could every where be got, both Grave and Godly; to deal in ſo weighty affaires: and no doubt but in all places, care is and will be, not, to neglect ſuch as are well grounded in Religion, ſound in faith, and of good underſtanding: yet if it ſo fall out that young men are choſen, (if thus qualified) we muſt take heed of ſtumbling at their youth: <hi>Timothy</hi> was a very young man; but <hi>Paul</hi> gives command that no man ſhould diſpiſe his youth. 1 <hi>Tim.</hi> 4.12.</p>
+            <p>Its not age, but honeſty and underſtanding, makes men fit for ſuch imployment; and we know its not only poſſible, but very ordinary, for men of 30. or 40. years, to out-ſtep many twice their age, both in grace and wiſdom.</p>
+            <p>Neither ſhould men ſtumble, if here and there men of ordi<g ref="char:EOLhyphen"/>nary ranke be choſen, if well quallified: although (bleſſed be God) our times afford as many that are both great and good, as any age ſince the world began; and many very able for eſtate, as otherwaies are choſen: yet its not to be queſtioned, but men of a lower ranke in the world, may be, and have been very ſer<g ref="char:EOLhyphen"/>viceable to the Church; and therefore none ought to be offen<g ref="char:EOLhyphen"/>ded thereat.</p>
+            <p>For,</p>
+            <p n="1">1. We know, men ordinaryly wiſe for the world, are not wiſeſt to God-ward; the Lord having hid the ſecrets of his Kingdom from the wiſe and prudent, and revealed them to babes, <hi>Mat.</hi> 11.25. <hi>Luk.</hi> 10.21.</p>
+            <p n="2">2. When the Lord Chriſt, who knew beſt whom to make
+<pb n="10" facs="tcp:116254:10"/>choice of, would pick and chuſe men out of the whole world to advance his cauſe and Kingdom, he counted it no policy to en<g ref="char:EOLhyphen"/>tertain the greateſt men, but a company of poor Fiſher-men, againſt whom the world might as eaſily be offended, it being as eaſie with him to have called great and rich men, and have enabled them for his work, as thoſe deſpicable ones; yet he choſe the poor, <hi>Iam.</hi> 2.5. <hi>Hath not God choſe the poor in this world, rich in faith?</hi> So 1 Cor. 1.26. <hi>Not many wiſe men af<g ref="char:EOLhyphen"/>ter the fleſh, not many mighty, not many noble are called,</hi> &amp;c. And truly, as not many ſuch men are effectually called to God, in Chriſt; ſo very few are fit to be imployed in Church diſ<g ref="char:EOLhyphen"/>penſations: for rich, and men great in the world, will not take upon them care and trouble, which brings no outward advan<g ref="char:EOLhyphen"/>tage: they cry out <hi>Who will ſhew us any good?</hi>
+               <note place="margin">Pſal. 4.</note> Alas, they have their Farmes to ſee, their Oxen to prove, their wives to marry, &amp;c. when they have nothing elſe to do, they'l come to Chriſt; looking all their life, with <hi>Felix,</hi> for a more convenient time: Act. 24.25. till time be no more.</p>
+            <p n="3">3. Mean men in the worlds accompt (as before) are ordina<g ref="char:EOLhyphen"/>rily. wiſeſt to God-ward, and we were better have no Gover<g ref="char:EOLhyphen"/>nours at all in the Church, though never ſo aged or rich, if ig<g ref="char:EOLhyphen"/>norant of God, and in thoſe things; about which, they are eſpecially converſant: certainly if ignorance and ſcandall, make men incapable of Sacramentall communion: much more of judicature in divine myſteries: yet as I ſaid before, its not unpoſſible for rich men and great men to be good, and I doubt not we have our <hi>Abrahams, Lots, Noahs, Jobs, Davids, Da<g ref="char:EOLhyphen"/>niels,</hi> &amp;c. men both great in the world, and rich in grace, but theſe are rare, as they were in their times.</p>
+            <p n="4">4. Although in civil things men are to be diſtinguiſhed and reſpected for their age, and other outward accomodations, yet Religion makes no ſuch difference, but before God and good men, an honeſt underſtanding Chriſtian is eſteemed above men great in the world, deſolute of ſaving grace: This worldly par<g ref="char:EOLhyphen"/>tiallity, the Apoſtle <hi>Iames</hi> utterly condemns, <hi>Iames</hi> 2.1.2. <hi>My brethren, have not the faith of our Lord Jeſus Chriſt in reſpect of perſons:</hi> read the 2.3. and 4. verſes. Beſides, in point of
+<pb n="11" facs="tcp:116254:10"/>policie, if we would not befoole our ſelves, and miſſe of hea<g ref="char:EOLhyphen"/>ven, we ſhould be very carefull to intruſt thoſe that are pious and prudent with the things of God, though never ſo meane outwardly. Certainly a skilfull Pilot with a homely hand<g ref="char:EOLhyphen"/>kerchief about his neck, will better conduct a ſhip to his right Port, then the Lord Major with his chain of Gold. Riches a<g ref="char:EOLhyphen"/>vail not in the day of wrath: Friends, its not a Ruff-band, a Beaver hat, a Gelding, a Gray beard, or thouſands per Annum can do thy ſoul good, thou mayeſt periſh for all that. I beleeve he thats diſeaſed in his body, or hath a limb out of joynt, will rather liſten to a skilfull Phyſitian or Chirurgion, in a thred<g ref="char:EOLhyphen"/>bare coat, then to an unskilfull Quack-ſalver in a Velvet ſuit: and certainly it will be our ſhame to be wiſer for the body, then for the ſoule, which is more worth then the whole world.</p>
+            <p n="5">5. Although men be never ſo rich and great in the world, yet if they be called and quallified for this work, they muſt be<g ref="char:EOLhyphen"/>come fooles, children and ſervants, or elſe not fit,<note place="margin">1 <hi>Tim. 5.17.</hi>
+               </note> either for the Kingdom of heaven or to be imployed in the Church of God. And this is one obſticle in the way of great men, who if they had eyes to ſee, they might know that the ſervice of God and his Church, is not only the greateſt freedom,<note place="margin">1 Cor. 4.20.</note> but the higheſt honour.</p>
+            <p n="6">6. Its an Argument of an ignorant and carnall heart, and of ſuch as are utterly unacquainted with Ieſus Chriſt, thus to ſtumble at his croſſe: was it not the ignorance and impietie of the Scribes and Phariſees thus to do? did not they ſay of the Lord Chriſt, <hi>Is not this the Carpenters ſonne? are not his brethren with us?</hi> &amp;c. <hi>Do any of the Rulers beleeve in him?</hi> &amp;c. Who is it that counts the wiſdom of God fooliſhneſſe, but men worldly wiſe? And are not we apt to ſay, What is ſuch or ſuch a one? do not we know them well enough? taking exceptions at men excellently qualliſied, if not ſo great in the world as our ſelves.</p>
+            <p n="7">7. Know this is only a block caſt in the way by Satan, that men may ſtumble without cauſe, and fall. Notwithſtanding, men of abilicie and known fidelitie, be in moſt places choſen; yet its ordinary with the devil and his inſtruments, to obſtruct;
+<pb n="12" facs="tcp:116254:11"/>therefore if he cannot quarrell with the Ordinances, then with diſpenſations; if no cauſe there, then with the Inſtruments; and if with none of thoſe, then with Chriſt, with Truth it ſelfe: For he knows the ſettlement of the diſcipline of the Church will exceedingly obſtruct the increaſe of his Kingdom, when corruptions are caſt out, and perſons ignorant and ſcandalous debarred that Ordinance, which makes them ten fold more the children of the devil, by unworthy participating: For its all one to him, either to make men ruſh hand overhead upon the Ordinance, to their ruine, or to raiſe a prejudice againſt the duty and Inſtruments imployed, to deprive them of that mercy, which by Gods bleſſing might be very Inſtrumentall to their ſalvation.</p>
+            <p n="8">8. If they be Legally choſen, have paſt the tryall, and the time of exception not made uſe of, blame your ſelves. Never<g ref="char:EOLhyphen"/>theleſſe, if they be unfit, there is place of appeal, and remedy.</p>
+            <p n="9">9. Ob. <hi>Me thinks the Paſtors and Elders in Presbyteri<g ref="char:EOLhyphen"/>an Congregations, are neither rightly called, nor fitly qua<g ref="char:EOLhyphen"/>lified.</hi>
+            </p>
+            <p>
+               <hi>A</hi> I. Although, I doubt not but many, yea the moſt of them are as well qualified as we can expect, for that as we cannot expect perfection here, nor in a Legall ſence, any fitly qualified, yet Evangelically conſidered, although none are ſufficient, the Lord looks upon them with approbation and acceptance.</p>
+            <p n="2">2. Notwithſtanding, there is alſo ſufficient proviſion made for the removall of ſuch, whether Paſtor or Elder, as are unca<g ref="char:EOLhyphen"/>pable either by ignorance or ſcandall: Its not here as in Inde<g ref="char:EOLhyphen"/>pendent Churches, where if the people injure their Paſtor, or Elders, &amp;c. or the Officers injure the people, without redreſſe; but if either party be found faulty, they are reſponſible, and ſa<g ref="char:EOLhyphen"/>tisfaction is given to the ſuffering party according to the de<g ref="char:EOLhyphen"/>merit: and doubtleſſe corruption will creep, eſpecially in<g ref="char:EOLhyphen"/>to Churches where proviſion is not made to keepe it out.</p>
+            <pb n="13" facs="tcp:116254:11"/>
+            <p n="3">3. Although I would not plead for the unſutableneſſe or incapacitie of any cal'd to the meaneſt office in the Church of God, yet I would have them looked upon as men ſubject to infirmities, not as Angels; and if we would not have ſuch, we muſt aſcend higher, to look for Paſtors, Elders, &amp;c. then either God or man ordained or expects. And yet ordinarily thoſe that ſtumble moſt, at the inablities of Church-Officers, are men moſt incapable of Church Communion.</p>
+            <p>
+               <hi>Secondly,</hi> For the Calling of Church-Officers.</p>
+            <p>If Paſtors, Teachers, Elders, &amp;c. be choſen according to thoſe directions laid down in the Ordinance, and have paſt thorow the door of tryall, accordingly as in moſt places they have; or otherwaies men diſaffected to the Government, would quickly have let them know it. There can be no juſt exception, eſpecially, if the time limited for exception be more then paſt abundantly: unleſſe you deny the publique Congre<g ref="char:EOLhyphen"/>gations in England, to be true Churches, which hath been, and is generally atteſted, not only by the National Synod now ſit<g ref="char:EOLhyphen"/>ting, the Godly Learned in generall, whether Epiſcopall or Presbyterian: but all the reformed Churches, nay, the moſt pious and prudent of the Independent judgement, alſo have publiquely poſitively and affirmatively declared them to be true Churches of Ieſus Chriſt; however confeſſed on all ſides to be full of corrupti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns, or elſe we ſhould have no need of Re<g ref="char:EOLhyphen"/>formation: many Godly and learned Divines having taken much pains in publique to defend the Truth, againſt all oppo<g ref="char:EOLhyphen"/>ſers: and indeed the ſatisfaction of ſuch weak Chriſtians as ſtumbled hereat, together with that other ſcruple of partici<g ref="char:EOLhyphen"/>pating the Sacrament in mixt Aſſemblies, was the chief cauſe of my own undertaking that Subject publiſhed for common benefit, in the Book called the <hi>Bramble berry,</hi> wherein there is full ſatisfaction given to that point: therefore not willing now to inſiſt further, I refer ſuch as yet ſcruple; thither.</p>
+            <p n="10">10. Q. <hi>But why muſt we appeal to Claſſes? have they any power to determine differences, and to reform abuſes in particu<g ref="char:EOLhyphen"/>lar Congregations?</hi>
+            </p>
+            <pb n="14" facs="tcp:116254:12"/>
+            <p>
+               <hi>A.</hi> Yea, and that for very good reaſon, for</p>
+            <p n="1">1. Beſides the appointment by Parliament and Aſſembly, they are our own Truſtees, or Repreſentatives, ſuch as are choſen by particular Congregations, to hear and determine differences, and reform ſuch abuſes as in caſe of error or injury they themſelves cannot; for were it not for Claſſis, the Paſtors, Elders, &amp;c, might injure the Congregation, or the people, in<g ref="char:EOLhyphen"/>jure the Paſtor, &amp;c. and remain remedileſſe: Claſſis therefore, are as Committees choſen out, or made up of paſtors and El<g ref="char:EOLhyphen"/>ders out of particular Churches; and although they have ap<g ref="char:EOLhyphen"/>pointment by Authoritie of Parliament, and Aſſembly, ſo they are approved and choſen by particular Churches, as their Tru<g ref="char:EOLhyphen"/>ſtees: ſo that every particular Church hath like intereſt, and ſo receive like redreſſe in point of appeal. And that theſe may not be oppreſſive or injurous, they are reſponſible to the Pro<g ref="char:EOLhyphen"/>vincialls, which are alſo made up of ſo many delegates as are thought fit out of the ſeverall Claſſis as their Repreſentatives, and thoſe alſo reſponſible to a National Synod, and they like<g ref="char:EOLhyphen"/>wiſe to a Parliament: ſo that as much proviſion as may be, is made to keep out Arbitrary proceeds and tyranny, and to re<g ref="char:EOLhyphen"/>dreſſe all abuſes: and that neither Paſtor or other Officer be wronged by the people, or the people by the Paſtor, &amp;c. or joyntly fall into errors without remedy.</p>
+            <p n="2">2. Although its true wee read of no ſuch power in the Church, as Claſſis Provincialls, Nationalls, &amp;c. in the Scripture, yet we finde ſomething as equivalent to them, as thoſe times of the Church, and the condition thereof could admit: for in caſes of controverſie of doubt of error or injury, &amp;c. we finde the particular Church, appealing to an Aſſembly of Apoſtles and Diſciples from whom they received directions, decrees; and in whoſe determinations the particular Churches acquieſce: as in that great diſſention that aroſe in the Church at Antioch, about circumciſion: <hi>Paul</hi> and <hi>Barnabas</hi> are ſent up to Jeruſa<g ref="char:EOLhyphen"/>lem, by the Church, to receive the direction, and determina<g ref="char:EOLhyphen"/>tion of the Apoſtles and Elders there, Act. 15.1.2. <hi>Having had much debate and diſpute of the matter,</hi> ſend down their de<g ref="char:EOLhyphen"/>termination by meſſengers, from amongſt themſelves, together
+<pb n="15" facs="tcp:116254:12"/>with <hi>Paul</hi> and <hi>Barnabas,</hi> viz. <hi>Barſabas</hi> and <hi>Sylas</hi> who carry them, both by word and writing, the effect whereof is in 28, 29. verſes: <hi>For it ſeemed good to the Holy Ghoſt and to us, to lay upon you no greater burthen then theſe neceſſary things, that ye abſtain from meats offered to Idols, and from blood, and from things ſtrangled, and from fornication: from which, if ye keep your ſelves, ye ſhall do well. Farewell.</hi> After the receiving of this determination, we read of no more contending about cir<g ref="char:EOLhyphen"/>cumciſion, but all was quiet. So that we ſee here was ſome<g ref="char:EOLhyphen"/>thing of like nature to a Synodicall Aſſembly, although the conſtitution of the Church and State at that time neither had need of, nor could poſſibly ſet up either Nationall, Provinciall, or Claſſicall Aſſemblies.</p>
+            <list>
+               <item>1. They had leſſe need then now, by reaſon the Chur<g ref="char:EOLhyphen"/>ches were not ſo numerous.</item>
+               <item>2. There Paſtors and Elders being endowed with a more infallible ſpirit, leſſe need of Apoſtles.</item>
+            </list>
+            <p n="2">2. Not poſſible.</p>
+            <p n="1">1. For that the Church being in its infancy, they had not a competent number of Apoſtles, Elders, &amp;c. to make many Aſſemblies.</p>
+            <p n="2">2. And more eſpecially, they lived not under Chriſtian Majeſtrates: there was then no Nationall Church, they neither had countenance, nor encouragement from the civil Majeſtra<g ref="char:EOLhyphen"/>cy: there was neither Nation, Province, or City, that gene<g ref="char:EOLhyphen"/>rally profeſſed Chriſt; they had a particular Church here and there, and theſe lyable ever and anon to be diſſipated by perſe<g ref="char:EOLhyphen"/>cution, &amp;c. Now there can be no Nationall Provinciall, or Claſſicall Aſſemblies, where the Nation, Province, or conſi<g ref="char:EOLhyphen"/>derable part of the Kingdom do not profeſſe Chriſt. Now if there bee much corruption where ſo great proviſion is made to reforme, how much more where there is no place of appeal: Therefore I ſhall affirm this to the whole world, that there is no other Government in the Church for the ſubſtantials of it held forth in the word of God, then Presbyterian: for the circumſtancialls, the State of the times and conſtitutions of our Kingdom cannot expect to finde recorded in all things
+<pb n="16" facs="tcp:116254:13"/>conduceable to the well being of a Church, in regard of union and order. I would to God we had more wiſdom then to quarrell about circumſtances; certainly, would we promote the ſubſtantialls of Reformation wherein both Presbyterian and Independent agree, other things would be eaſily reconci<g ref="char:EOLhyphen"/>led; but while we thus contend about that punctillo of ap<g ref="char:EOLhyphen"/>peal, the work of Reformation is moſt ſinfully and ſhamefully neglected: for as I ſaid formerly, Independent Government is Presbyterian, except in point of appeal; nay, Epiſcopacy regulated, viz. when their Lordly uſurped power, their Dio<g ref="char:EOLhyphen"/>ceſan Dominion, their temporall civil and ſecular Juriſdictions is taken off, is alſo Presbyterian: a Scripture Biſhop is a Pa<g ref="char:EOLhyphen"/>ſtor, or Presbyter, or Elder; only every Paſtor is an Elder, but every Elder not a Paſtor: Some rule, ſome labour in the word and doctrine: ſo that Biſhop, Paſtor, Teacher, Presbyter, El<g ref="char:EOLhyphen"/>der, will admit of one and the ſame interpretation. Therefore let us ceaſe contending about words, that tend rather to ſtrife then edifying: let us not tythe Mint and Annis, &amp;c. while we neglect Judgement, Mercy, and Fidelity, &amp;c. while we quarrell in circumſtances in the neglect of the ſubſtance of Gods worſhip: Like a fooliſh builder, we are convering the houſe, before the foundation be well laid: lie a Star-gazing while the ſhip is ready to ſink under us: we quarrell about Roſemary and Bayes, while Church and State run both to ru<g ref="char:EOLhyphen"/>ine, and our neighbouring nation wallows in its blood: ſtand combing and triming our beards, while our houſe is on fire o<g ref="char:EOLhyphen"/>ver our heads. Truly thus, and far more ridiculous is our con<g ref="char:EOLhyphen"/>dition, the Lord help us to ſee it; and doubtleſſe it were juſt with God to give us over to purſue ſhadows, and lying vani<g ref="char:EOLhyphen"/>ties, in the neglect of our own mercy, for that we are ſo wed<g ref="char:EOLhyphen"/>ed to promote the Circumſtances in the retard, and overthrow of the ſubſtantialls of Gods worſhip, and the power of Godlineſſe, &amp;c.</p>
+            <pb n="17" facs="tcp:116254:13"/>
+            <p>
+               <hi>The Third and Fourth particular,</hi> Concerning the Law<g ref="char:EOLhyphen"/>fullneſſe and uſefulneſſe of Examination by the Eldership, as followeth</p>
+            <p n="11">11. Ob. <hi>But they ſay now none muſt come to the Sacra<g ref="char:EOLhyphen"/>ment without Examination by the Elderſhip, which ſome hold to be no better then a point of Popery; however its very need<g ref="char:EOLhyphen"/>leſſe and ridiculous for ancient men that have born all offices in the Pariſh and Church too, lived long under the meanes, often formerly admitted, now to be Catichiſed like boyes; neither doe I beleeve there is any rule for it in the Word: the Apoſtles ſaith,</hi> Let every man examine himſelfe, and ſo let him eat; &amp;c. 1 Cor. 11.28.</p>
+            <p>
+               <hi>A.</hi> Its very true, that none are now to be admitted to the Sacrament of the Lords ſupper, but who ought to be exami<g ref="char:EOLhyphen"/>ned, and that upon good ground: neither is there the leaſt punctillo of Popery in it; or is it either needleſſe or ridiculous, but a very neceſſary duty, and grounded both upon Scripture and good reaſon, as well for ancient as young people: and ſee<g ref="char:EOLhyphen"/>ing this is the grand ſtumbling-block, I ſhall endeavour its re<g ref="char:EOLhyphen"/>movall, eſpecially, and for that indeed without Examination there can be no true Reformation.</p>
+            <p n="1">1. For that its objected as tending to Popery: whoſoever thinks ſo, its not for want of ignorance, for it is not intended either by Parliament or Synod, or any par<g ref="char:EOLhyphen"/>ticular Congregationall Elderſhip, to expect auricular confeſſion, but onely an account of a reaſon of mens Faith, which men may do, and yet have little ſhare in Jeſus Chriſt: True, if a man render a competent account of his knowledge in the myſteries of God, if nothing of ſcandall appear in the life, he cannot be kept back from Sacramentall viſible commu<g ref="char:EOLhyphen"/>nion, although as before a ſtranger from union with Chriſt: therefore is it, there is a twofold Examination requiſite.</p>
+            <p n="1">1. Examination of a mans own heart, whether he have the ſinceritie, Godly zeal, knowledge, faith, repentance, love, &amp;c. with ſuch graces as indeed give a man right, not onely to the
+<pb n="18" facs="tcp:116254:14"/>Elements, but to Jeſus Chriſt, without which, he can have no comfort in participating.</p>
+            <p n="2">2. Examination by the Paſtor and Elders, whereby he is known fit for viſible communion; for although a man may give the Elderſhip a fair account, yet may he be an hypocrite, a childe of the devil: the principall part, (without which, all is vain) is to ſet things to rights between God and the ſoule in ſe<g ref="char:EOLhyphen"/>cret, which being the greater work, the Apoſtle urges that on<g ref="char:EOLhyphen"/>ly, not intending to exclude Examination by the Church as needleſſe: and is it not for this purpoſe the Apoſtle <hi>Peter</hi> laies down that Apoſtolicall injunction, 1. <hi>Pet.</hi> 3.15. <hi>Be ready al<g ref="char:EOLhyphen"/>waies to give anſwer to every man that asks you a reaſon of the hope that is in you, with meekneſſe and fear.</hi> Firſt ſaith he <hi>San<g ref="char:EOLhyphen"/>ctifie the Lord God in your hearts:</hi> that is, be ſure the heart be upright with God, and then be ready alwaies to render ac<g ref="char:EOLhyphen"/>count, &amp;c. If a man muſt be alwayes ready, and to all men to give account; ſurely, eſpecially to the Church of God. And although Chriſtians ought not to be aſhamed to confeſſe Jeſus Chriſt, and to make profeſſion of their faith, even to heathens, or perſecutors, if called to it, yet its mainly intended that none ſhould refuſe to render a reaſon of their faith, to the Church of God: yea, and that Scripture holds forth that they muſt be both knowing and faithfull, that render account, as well as men ig<g ref="char:EOLhyphen"/>norant or ſcandalous.</p>
+            <p>Now that Examination by the Elderſhip is very requiſite will appear by theſe and ſuch like enſuing Arguments, it be<g ref="char:EOLhyphen"/>ing already ſufficiently proved, that Paſtors, Teachers, Elders, their Offices, titles, and imployments, are of Divine inſtituti<g ref="char:EOLhyphen"/>on: and alſo that their titles are ſutable to their imployments, they are in ſcripture called Rulers, Governours, Overſeers, Stewards, Watchmen, &amp;c. and their Office as hath been large<g ref="char:EOLhyphen"/>ly proved, is to order out the adminiſtrations of the Church decently, to admit or ſuſpend from the Sacrament according to mens ſeverall capacities, &amp;c. and therefore Examination muſt inevitably follow.</p>
+            <p>For,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum. </seg>1</label> They that are bound to give account to God, concerning
+<pb n="19" facs="tcp:116254:14"/>the Church, and the particular members thereof, ought to be acquainted with their ſpiritual condition.</p>
+            <p>But Paſtors, Teachers, and Elders, of particular Congrega<g ref="char:EOLhyphen"/>tions, are bound to give account to God, of the particular mem<g ref="char:EOLhyphen"/>bers of their Churches.</p>
+            <p>Therefore ought to be well acquainted with their ſpirituall condition.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum. </seg>2</label> Thoſe to whom we are bound to ſubmit and obey in the Church, to them we ought to render account of our faith, if called to it; Examination being an Ordinance of the Church.</p>
+            <p>But we are bound to ſubmit to, and to obey the Paſtors and Elders of the Church, in all Church ordinances.</p>
+            <p>Therefore we ought to obey them in this ordinance of Ex<g ref="char:EOLhyphen"/>amination.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum. </seg>3</label> If none but men ſit to participate the Sacrament, are to bee admitted, and that the unfit are to be kept back by the Elder<g ref="char:EOLhyphen"/>ſhip, its of neceſſitie they ſhould know who are fit, and who are not; which cannot be done without Examination.</p>
+            <p>But the worthy are to be admitted, and the unworthy to be ſuſpended by the Elderſhip, neither can they know mens ſeve<g ref="char:EOLhyphen"/>rall capacities or conditions without Examination.</p>
+            <p>Therefore Examination by the Elderſhip is of neceſſity, without which they cannot ſeparate between the precious and the vile, as their duty is.<note place="margin">
+                  <hi>Jer.</hi> 15..19</note>
+            </p>
+            <p>Many Arguments might more be offered, but the matter is ſo plain, that to any reaſonable man, there can remain no ſeru<g ref="char:EOLhyphen"/>ple: neither do I quoteſcriptures to thoſe Arguments by rea<g ref="char:EOLhyphen"/>ſon they are grounded upon the former ſcriptures, alledged for the proof of the Elderſhip, to be of Divine right: I ſhall only propound this one text which will anſwer all.</p>
+            <p>
+               <hi>Obey them that have the rule over you, and ſubmit your ſelves, for they watch for your ſoules, as they that muſt give ac<g ref="char:EOLhyphen"/>count; that they may doe it with joy, and not with grief, for that is not profitable for you.</hi> Heb. 13.17.</p>
+            <p>In which ſcripture all may clearly ſee that the foregoing Ar<g ref="char:EOLhyphen"/>guments, and many more is ſtrongly held forth; there
+<pb n="20" facs="tcp:116254:15"/>beeing contained in the words, theſe following Truths.</p>
+            <list>
+               <item>1. That ſubjection and obedience, is to be given to thoſe that rule and governe in the Church.</item>
+               <item>2. That the reaſon why men muſt obey thoſe that rule in the Church, is for that they are [ſet over] their ſoules, as watch<g ref="char:EOLhyphen"/>men, and muſt give account to God, concerning thoſe commit<g ref="char:EOLhyphen"/>ted to their Charge.</item>
+               <item>3. That its an occaſion of Joy to Governours in the Church, when people are obedient to the ordinances thereof; and of grief when they diſobey.</item>
+               <item>4. That the hurt that follows upon the peoples non obedi<g ref="char:EOLhyphen"/>ence, and the good that attends their obedience redounds to themſelves.</item>
+               <item>5. That its the ſinne of particular members of the Church not to obey them that in the Lord are ſet over them in the Church.</item>
+            </list>
+            <p>Certainly, the conſideration of their office, and the ends of their appointments to them, is Argument enough; doubtleſſe he is not fit to be a Steward, nor can poſſibly give account, that knows not the ſtate of his Charge: neither is he fit to be a Shepherd that knows not the ſtate of his flock. And if Elders muſt reprove, rebuke, exhort, admoniſh and encourage, as oc<g ref="char:EOLhyphen"/>caſion is, How ſhall they do this, without Examining thoſe with whom they have to do?<note place="margin">2 <hi>Tim.</hi> 4.2.</note>
+            </p>
+            <p>Notwithſtanding, by reaſon of that generall averſeneſſe to this neceſſary duty, I add theſe enſuing conſiderations, being willing to ſatisfie all.</p>
+            <p n="1">1. Conſider, if publique profeſſion and confeſſion were re<g ref="char:EOLhyphen"/>quiſite in men grown to maturitie, before they could be bap<g ref="char:EOLhyphen"/>tized; much more requiſite is it before admittance to this or<g ref="char:EOLhyphen"/>dinance. The Eunuch, although a man of great authoritie, and well inſtructed by <hi>Philip,</hi> and although coming to Jeruſa<g ref="char:EOLhyphen"/>lem to worſhip, yet could not be baptized, till he made pro<g ref="char:EOLhyphen"/>feſſion of his faith; and was firſt well Catechiſed concerning Chriſt, Act. 8.37. <hi>If thou beleeveſt with all thy heart, thou maiest? and he anſwered and ſaid, I beleeve,</hi> &amp;c. and although the Jewes were circumciſed, and were of the Nationall Church
+<pb n="21" facs="tcp:116254:15"/>of God, yet were none of them received into the particular Congregations and Churches of Jeſus Chriſt, without profeſſi<g ref="char:EOLhyphen"/>on of their faith, and confeſſion of ſins, out of which we may gather that our baptiſme gives us no right at all to the Sacra<g ref="char:EOLhyphen"/>ment of the Lords Supper, unleſſe we be ſutably quallified, we may eat and drink our own damnation.</p>
+            <p n="2">2. Conſider there is in every Chriſtian required not onely a believing heart, but a verball profeſſion of Faith in Chriſt. <hi>Rom.</hi> 10.10. For with the heart man believeth unto righteouſ<g ref="char:EOLhyphen"/>neſſe, and with the mouth confeſſion is made to ſalvation.</p>
+            <p n="3">3. Although every man ought to examine himſelf that comes to the Table of the Lord; yet the Officers of the Church muſt alſo examine, elſe how ſhall they know who is able to examine himſelf: And I fear they that plead moſt againſt ex<g ref="char:EOLhyphen"/>amination by the Elderſhip, are both leaſt capable and moſt careleſſe of that eſpeciall duty of ſelf examination: beſides ſelf examination is all that is required of any man after firſt admittance. Thoſe the Apoſtle ſpeaks to, 1. <hi>Cor.</hi> 11.28. were members of the Church, who had before admittance made profeſſion of their faith in Chriſt.</p>
+            <p n="4">4. Methinks particular men ſhould not ſtumble at examination, ſeeing thoſe that are in place of Judicature &amp; truſt in the Church ought and are firſt examined, as 1. <hi>Tim.</hi> 3. After the Apoſtle had laid down what manner of men they ought to be that are to bear office in the Church in the 10. v. ſaith, and let theſe alſo be rov'd: implying that all admitted to Church communion ought to be proved: but firſt ſuch as are to rule and govern theſe (alſo) muſt be proved. And this the Parliament and Synod have made good proviſion for; in that Ordinance for ſetling the govern<g ref="char:EOLhyphen"/>ment of the Church, that none be admitted to that truſt, but firſt to be proved by the triers, who muſt be found men of un<g ref="char:EOLhyphen"/>blameable Converſations, and ſound in the Faith. And indeed there is great need that men that are to rule in the Church, ſhould be both grave and godly: for if a man cannot tell how to rule his own houſe, how ſhall he take care of the Church of God? 1. <hi>Tim.</hi> 3.5.</p>
+            <p n="5">5. No man can poſſeſſe outward things, but he muſt declare
+<pb n="22" facs="tcp:116254:16"/>his title, and upon all occaſions produce his evidences: and do we think the things of God are to be paſſed hand over head to ſuch as are no way able to plead their proprietie? Thinke it requiſite to deal ſecurely for the body, and be ſo looſe and careleſſe of our immortall ſouls.</p>
+            <p n="6">6. Conſider who is it will ſuffer if men unworthy be ad<g ref="char:EOLhyphen"/>mitted, as of neceſſitie they will if not examined: ſhall not ſuch a one reap his own ruine? Nay, and thoſe that ought to have debarred him Inevitably, incur the guilt of his bloud: therefore it is farre better, and more agreeable to the word of God, &amp; more tending to the edification of the Church; for men found unfit, a while to be ſuſpended, till by the preaching of the VVord, Prayer, Chriſtian admonition, &amp;c. they become capable to participate to Gods glory, and their own comfort.</p>
+            <p n="7">7. There is not ſo great cauſe of offence, (if any) to any man, if they confider it is but once: at firſt admittance its need<g ref="char:EOLhyphen"/>leſſe when men are once ſufficiently known to the Church, if it were to be done as often as the Sacrament were adminiſtred there were more cauſe of exception.</p>
+            <p n="8">8. Conſider Authority upon long and ſerious debate, hath found it a duty of eſpeciall concernment, much conducing to the Reformation of abuſes in the Church, having had ſufficient conſult with the Aſſembly of Divines, concerning the Legallity and neceſſity thereof; and have found it a duty of Divine right: and therefore have injoyned all in Authoritie that they admit none, but firſt examine their aptneſſe both in point of knowledge and converſation: and this Ordinance will not on<g ref="char:EOLhyphen"/>ly debar the ignorant and ſcandalous, but alſo men of unſound and rotten judgements, who are as dangerous in the Church, and far more then ſcandalous livers: Now if we ought to ſub<g ref="char:EOLhyphen"/>mit to every Ordinance of man for the Lords ſake, let us ſub<g ref="char:EOLhyphen"/>mit to this, eſpecially wherein the glory of God, and our own eternall good is ſo much concernd: And certainly thoſe that moſt pleaded for Conformity, for obedience to Authority in the Biſhops dayes, ſhould not now ſpurn ſo much at the Ordi<g ref="char:EOLhyphen"/>nances of the Church: yet ſo it is, that thoſe formerly that were
+<pb n="23" facs="tcp:116254:16"/>our greateſt Conformiſts are in this point chief non-conformiſts: And ſuch men who I am ſure caſt an evill eye upon the ſepa<g ref="char:EOLhyphen"/>ration for making rents and diviſions in the Church, by their ſpurning againſt the Ordinances of the Church, running hither and thither to promiſcuous diſpenſations, luſting after their old onyons, become arch Seperatiſts: which diſorder, doubtleſſe as the work of Reformation goes on, and the government of the Church ſetled, will eaſily be prevented.</p>
+            <p n="9">9. Conſider, its the honour of a Chriſtian to make profeſſi<g ref="char:EOLhyphen"/>on of his Faith, although before perſecutours, and tyrants, and in midſt of ſufferings, and wilt thou be aſhamed to render a rea<g ref="char:EOLhyphen"/>ſon of thy Faith to thy fellow brethren and friends.</p>
+            <p n="10">10. Nothing is required of any particular member, that both Paſtor and Elders have not cherefully undergone, and that in a more ſerious and ſtrict nature.</p>
+            <p n="11">11. The turning our backs upon the Lords Supper, rather then to paſſe thorow this doore of examination, argues great ſleighting of that ſacred Ordinance, and herein we neglect our own mercy, and bewray aboundance of folly: certainly every man would charge him with folly, that is heire to a good eſtate, and will rather looſe it, then plead his intereſt, or bring forth his evidences. And have we not as great reaſon to conclude him both ignorant and unworthy to participate the Lord Chriſt, that rather then ſhow his right or plead his propriety, will looſe his part in him<g ref="char:punc">▪</g> Therefore by all means take heed of contemning this weighty Ordinance wherein our ſpiritual life &amp; nutriment conſiſts. And the more thy heart is averſ to ſubmit, the more certainly conclude the Ordinance is of Divine Inſti<g ref="char:EOLhyphen"/>tution for naturally our hearts are averſe to God and goodnes.</p>
+            <p n="12">12. By coming in, we ſhall declare our ſelves friends to Re<g ref="char:EOLhyphen"/>formation, Promoters of the Peace of the Church, Enemies to thoſe that would gladly increaſe our confuſion, who with <hi>San<g ref="char:EOLhyphen"/>ballat</hi> and <hi>Tobiah,</hi> caſt their daily ſcoffs and reproches upon the wayes, people, and Ordinances of God; beſides it is farre better for men found uncapable by examination to be a while ſuſpended, then if promiſcuouſly admitted in a croud to be caſt out by excommunication.</p>
+            <pb n="24" facs="tcp:116254:17"/>
+            <p n="13">13. Conſider the great miſchieſs that attend the admitting of all ſorts of men to the Table of the Lord.</p>
+            <p>Firſt,</p>
+            <p>
+               <q>Hereby occaſion is given to the weaker, to diſpiſe and diſ<g ref="char:EOLhyphen"/>like the Ordinances of God, and to contemne our Re<g ref="char:EOLhyphen"/>ligion, this being the very reaſon why many now of the ſeparation have forſaken our Aſſemblies; and do at this day power ſo much reproach and contempt upon us, although they are to be juſtly condemned in ſo doing: Wo be to them that give occaſion of offence; but withall wo be to them that take offence hereat: <hi>The ſinne of</hi> Elies <hi>ſonnes,</hi> 1. Sam. 2.17. <hi>was great in making the Lords people to abhor the offerings of the Lord:</hi> yet this was alſo called the tranſgreſſion of the people, ſo that they both ſinned; even ſo promiſcuous diſpen<g ref="char:EOLhyphen"/>ſation of divine Ordinances gives occaſion of offence to ma<g ref="char:EOLhyphen"/>ny, eſpecially to God, therefore ſinfull: but yet its their ſin that turn their backs upon the Ordinances for that ground.</q>
+            </p>
+            <p>Secondly,</p>
+            <p>
+               <q>Its a grand cauſe of the growth of ſinne: hereby prophane men are incouraged to go on in their impieties, by being ad<g ref="char:EOLhyphen"/>mitted into Church priviledges, as well as the beſt men, and not diſcountenanced by caſting out that, that makes Gods Vineyard fruitfull, as a reverend able Divine not long ſince well ſhewed, is the fencing of it, and caſting out the ſtones thereof, <hi>Eſay</hi> 5.2. But if the fence be ſo broken down, that ſwine, and all manner of beaſts break in, and if the ſtones be not caſt out, to wit, men ignorant and ſcandalous, its im<g ref="char:EOLhyphen"/>poſſible for the Church to edifie or bring forth fruit pleaſing to God, nothing but wild and ſower grapes can be expected.</q>
+            </p>
+            <p>Thirdly,</p>
+            <p>
+               <q>The holy things of God are hereby profained, childrens bread given to dogs, Pearls caſt before ſwine, the uncircum<g ref="char:EOLhyphen"/>ciſed admitted, no difference put between the precious and the vild; giving the Lord juſt cauſe to deprive us of his Ordi<g ref="char:EOLhyphen"/>nances, and to ſay as ſometime he did of his Iſrael, <hi>What hath my beloved to do in my houſe, Jeremiah,</hi> 11.15.</q>
+            </p>
+            <pb n="25" facs="tcp:116254:17"/>
+            <p>Fourthly.</p>
+            <p>It will abundantly grieve and burthen the godly party; even as putrified and rotten members, grieve the whole body; and as its death for a dead carcaſſe to be joyned to a living man: and as in the beſt framed Fabrick, although much of the materials are very ſound and good, yet one rotten pillar or beam, may bring all about our ears. And as no man will put an old peece into a new garment, ſo is it not only unſutable, but very unſafe, nay, deſtructive to admit men ignorant and ſcandalous, to fellow<g ref="char:EOLhyphen"/>ſhip with the Saints; what fellowſhip can light have with darkneſſe? or God with <hi>Belial?</hi> And for this cauſe was it, the hand of God lay ſo heavy upon the Corinthians, many of them viſited with ſickneſſes and death, for their unworthy par<g ref="char:EOLhyphen"/>ticipating the Lords body. 1 Cor. 11.</p>
+            <p n="14">14. Conſider that Apoſtolical injunction is binding to all Governours in Churches, in this caſe, 1 Cor. 5.11. <hi>If any that is called a Brother be a fornicator, or covetuous, or an Idolater, or a rayler, or a drunkard, or an Extortioner; with ſuch a one eat not.</hi> The Apoſtle prohibits not eating common bread, with ſuch, (for then we muſt go out of the world,) but Sacra<g ref="char:EOLhyphen"/>mentall bread: And therefore appointed this remedy: verſ. 13. <hi>Put away therefore from among you that wicked perſon.</hi>
+            </p>
+            <p n="12">12. Ob. <hi>Methinks if they would Catechiſe the young people it would do well, but for ancient men that have received the Sacrament twenty or thirty years together, or more; that have born all Offices in both Church and Pariſh, to be now called to account like boyes; This cannot be endured.</hi>
+            </p>
+            <p>A. Its very good indeed for young people to be well cate<g ref="char:EOLhyphen"/>chiſed in the grounds and principles of Religion, and in the Doctrine of the Sacrament, that may become capable of thoſe holy myſteries; and if in publick, the ancient looſe nothing by it: yet its too too common for old men to be very ignorant of Jeſus Chriſt; and therefore have need enough of Examinati<g ref="char:EOLhyphen"/>on; and yet reſpect had to their yeers alſo: neither Parliament or Elderſhip intending ſuch a particular Catechiſtical account of ancient men, as of the younger ſort; it being to pedagogicall: but if the ſoules of the anciont be as precious as the ſouls of the
+<pb n="26" facs="tcp:116254:18"/>young, and if the blood of the ancient as well as the younger people, will be required at their hands, that willingly receive them into Sacramental communion; that by unworthy par<g ref="char:EOLhyphen"/>ticipating become guilty of the body and blood of Jeſus Chriſt: then I ſay it is of as great neceſſity for the old as well as young people to render a reaſon of their faith to the Church.</p>
+            <p>Had not (I pray you) <hi>Nichodemus</hi> need enough of cate<g ref="char:EOLhyphen"/>chiſing? an ancient man, a Ruler of the Jewes; yet utterly ignorant of the doctrine of Regeneration: and as ignorant are many of our great and ancient men, both of Regeneration, and alſo of the work of Reformation, &amp; doctrine of the Sacrament: yet no doubt but all the reſpect that may be, will be had both to age and ſex; the work being intended by all intruſted in it, to be caried on with all humilitie, love, and Chriſtian tender<g ref="char:EOLhyphen"/>neſſe; laying aſide all ſiniſter reſpects, or ambitious ends, ac<g ref="char:EOLhyphen"/>cording to the exhortation of the Apoſtle, 1 <hi>Pet.</hi> 5.23. ſpeak<g ref="char:EOLhyphen"/>ing there to the Elders, exhorts them to <hi>feed the flock of God, which is among them; and of whom they have overſight, not by conſtraint, or for filthy lucre, but of a ready minde: neither as being lords over Gods heritage, but to be enſamples to the ſtock.</hi>
+            </p>
+            <p>And, for that ſome have received the Sacrament twenty or thirty years together; the longer the worſe with many, for we know by wofull experience, how promiſcuouſly the Ordi<g ref="char:EOLhyphen"/>nances of God, have been even hand over head diſpenſed, to the great diſhonour of God, the ſhame of ſuch as had power in the Church, and much to be feared and lamented, to the loſſe of many a poor ſoul: and indeed, this being one of the grand corruptions to be caſt out of the Church, ought not to be plea<g ref="char:EOLhyphen"/>ded for in the leaſt. Old cuſtoms have begot old corruptions.</p>
+            <p n="13">13. Ob. <hi>But muſt all men be examined? Certainly ſome men are as able to examine the Elderſhip, as the Elders them; What need is there to examine ſuch?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Would to God all men were ſo: and their converſations as ſutable: With <hi>Moſes,</hi> I wiſh all the Lords people were Prophets; yet men never ſo well qualified muſt be examined before admitted; yea, and by men, peradventure ſome of
+<pb n="27" facs="tcp:116254:18"/>them of meaner abilities, then thoſe Examined. For,
+<list>
+                  <item>1. The Ordinance of Parliament, although made upon long and ſerious debate for that purpoſe, exempts none.</item>
+                  <item>2. If men be never ſo able or honeſt, if not known, the du<g ref="char:EOLhyphen"/>ty may not be omitted.</item>
+                  <item>3. If they be known to be ſuch, yet to avoid exception, and to encourage others, although leſſe paines need be taken; its not needleſſe to render an account of the reaſon of our faith, but according to Apoſtolical injunction. Certainly, when the Apoſtle enjoynes all to this duty, he means not only men of weak abilities, but even the ſtrongeſt Chriſtian.</item>
+                  <item>4. Although men be never ſo able, yet they muſt obey them that are ſet over them in the Lord, and who are lawfully called to that function, and who have received authority from God, abilities muſt not make men ſhake off obedience.</item>
+                  <item>5. Such men as are able and Godly, doe ſeldom or never ſcruple this; their hearts being moſt averſe that have leaſt knowledge of God: ignorance and ſcandal being the grand reaſon of mens ſtanding out: were not men in the dark, they would not ſtumble.</item>
+               </list>
+            </p>
+            <p n="14">14. Ob. <hi>But muſt women alſo be examined? is there any rule for that in Scripture?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> There is as much rule for Examination of women, be<g ref="char:EOLhyphen"/>fore their firſt admittance, as there is for their coming to the Sacrament; there being no poſſitive precept for it; although very undeniable conſequences from the Word. Certainly, women were converſant with Jeſus Chriſt, as well as men; and although not recorded in holy Writ, yet doubtleſſe did participate the body and blood of Jeſus Chriſt Sacramentally, as well as men. And if they have immortal ſoules, and muſt live by faith as well as men, and have no other way to ſalvati<g ref="char:EOLhyphen"/>on but Jeſus Chriſt, as well as men: and if the guilt of their blood may by unworthy ruſhing upon the Ordinance of God, be charged upon the Elderſhip, as well as upon themſelves, certainly, as much care had need to be taken how they be ad<g ref="char:EOLhyphen"/>mitted, and what right they have to the ſacred and divine mi<g ref="char:EOLhyphen"/>reſteries.</p>
+            <pb n="28" facs="tcp:116254:19"/>
+            <p>Peradventure ſhame-fac'dneſſe and modeſty, (ſubject to that Sex) may at firſt a little bee ſome hinderance; but doubt<g ref="char:EOLhyphen"/>leſſe every knowing Chriſtian woman that deſires communion with Ieſus Chriſt in his Ordinances, the premiſes conſidered, will not reject their own mercy, in turning their backs upon ſo weighty an Ordinance, rather then do that duty, which we ſee both God and man enjoyns and expects; and wherein their own ſafety is ſo much concerned: and I am confident out times have as many <hi>Maries, Priſcillahs, Hannahs, Ly<g ref="char:EOLhyphen"/>diaes,</hi> &amp;c. (viz.) women fearing the Lord, and not aſhamed of their profeſſion, as any time ſince the world began: and who I hope, are rather aſhamed of taking upon them looſe and fan<g ref="char:EOLhyphen"/>taſtick faſhions, not becoming the Goſpel, then contemne the Ordinances of Ieſus Chriſt: and who with thoſe Godly Ma<g ref="char:EOLhyphen"/>trons of old, make their chief ornament the hidden man of of the heart; the ornament of a meek and quiet ſpirit: accor<g ref="char:EOLhyphen"/>ding to the exhortation of the Apoſtle, 1 <hi>Pet.</hi> 3.4.5. alſo in 1 <hi>Tim.</hi> 2.9.10. both places worth the taking ſpecial notice of, by every woman fearing God.</p>
+            <p>Neither are ſuch uſeleſſe to the Church, but may with <hi>Pri<g ref="char:EOLhyphen"/>ſcilla,</hi> help forward the work of Chriſt, in the ſervices of the Church, Rom. 16.3. And doubtleſſe they will not miſſe of that reſpect and tender care from the Elderſhip, as be ſeems both their age and Sex.</p>
+            <p n="15">15. Ob. <hi>Were it only to be examined by the Miniſter, it were not ſo much; but for a man or woman to come before ſo many, daſhes them out of Countenance.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. Its not otherwaies intended but the Paſtor or Mini<g ref="char:EOLhyphen"/>ſter, ſhall propound ſuch plain and neceſſary queries, as are re<g ref="char:EOLhyphen"/>quiſite: which indeed are ſo few and eaſie, that none need ſcru<g ref="char:EOLhyphen"/>ple. Neither can any be ignorant of, that know any thing of God: eſpecially being ſo cleerly laid down in the Ordinance of Church government: the Elders for the moſt part being au<g ref="char:EOLhyphen"/>ditors, only with the Paſtor approving, or otherwiſe of mens aptneſſe, &amp;c. for ſo weighty an Ordinance.</p>
+            <p n="2">2. Its for very good reaſon there ſhould be Elders to joyne with the Paſtor in this work, otherwiſe the buſineſſe would
+<pb n="29" facs="tcp:116254:19"/>be arbitrary, and more apt to corruption: its not fit the power of admiſſion or ſuſpenſion, ſhould reſt in any particular breaſt.</p>
+            <p n="3">3. The Paſtors and Elders doubtleſſe know its their duty to avoid prepoſterous and partial proceeds, vain glory, provoca<g ref="char:EOLhyphen"/>tion to ſtrife, &amp;c. And although they ought to be jealous, yet muſt they alſo be tender over the ſoules of ſuch who are com<g ref="char:EOLhyphen"/>mitted to their charge: and to doe all in long ſuffering and meekneſſe, forbearing one another in love: that no offence be given, according to the Apoſtles rule, <hi>Phil.</hi> 2.3. <hi>Gal.</hi> 5.26. 2 <hi>Cor.</hi> 63, 4. 1 <hi>Pet.</hi> 5.1, 2, 3.</p>
+            <p n="16">16. Ob. <hi>Me thinks it were ſufficient to ſuſpend the ſcanda<g ref="char:EOLhyphen"/>lous: Is there any ſuch need to keep off the ignorant? Is not the Sacrament a converting Ordinance?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Ignorance as well as ſcandal make men uncapable: for ignorant men are not able to diſcerne the Lords body: Nay, men ignorant and erronious, are more dangerous in the Church, then the ſcandalous: for the ſcandalous is palpably known to himſelf and others, to be in an undone condition: but an ig<g ref="char:EOLhyphen"/>norant man, or a man of corrupt judgement in fundamentalls, doth not only go himſelf hud-winked to hell, but if God be not the more mercifull, draws others along with him. There<g ref="char:EOLhyphen"/>for<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as a man would keep a ſword or other hurtfull weapon out of a Childes or a mad mans hand, ſo carefull ſhould we be of admitting men either ſcandalous, ignorant, or erronious, to Sacramental communion, leaſt they ruine themſelves and o<g ref="char:EOLhyphen"/>thers: for the Sacrament of the Lords ſupper is a conſuming, but not a converting Ordinance, Preaching, Reading, Prayer, &amp;c. are converting Ordinances: and till men are converted, and well ſeen in the Doctrine of Faith, Repentance, Juſtification, and Sanctification, they are very unfit for Sacramental communion.</p>
+            <p n="17">17. Ob. <hi>But do what you can, yet many corrupt men will be admitted.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> True, but the fewer the better, if men be inwardly depraved, God only judges; the Elderſhip ſees only as man ſees. And if notwithſtanding all care, ſome will be corrupt, much more would be, if men were admitted hand over head, as formerly, without Examination.</p>
+            <pb n="30" facs="tcp:116254:20"/>
+            <p n="18">18. Ob. <hi>Surely were it a good work and aceording to God, good Miniſters would promote it; but there are diverſe good Preachees about London, and in other parts of the kingdome, that act little or nothing at all this way.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Its true, that good Miniſters do promote the work very much, and many Congregations have made good progreſſe where the Miniſters or Paſtors are hearty to the work of Re<g ref="char:EOLhyphen"/>formation. And indeed where there are good Elders, it be<g ref="char:EOLhyphen"/>wrayes either a nutral, Epiſcopal, or a malignant ſpirit, in thoſe Miniſters that act not: Let them preach how they will, if they ſtir not up both People and Elders to improve their ability to the utmoſt, to put forward the work, there is but little zeal for God: And if the Elders be backward, the Miniſter ought to uſe all means, either to cauſe them to mend their pace, or have them outed; and its the fault of Elders, conſidering remedy may be had, if they ſuffer under an Epiſcopal or malignant Paſtor.</p>
+            <p n="2">2. Paſtors ought to ſeek both the Elders and People, and ſo the Elders and People their Paſtor from God, and all joyntly to ſeek God; (<hi>viz.</hi>) the godly for direction and protection; for its very unlikly, elſe the work ſhould proſper: A work well begun is half ended, no doubt but Satan and our corrupt hearts, will caſt blocks in our way that we might ſtumble and fall; but we have a ſtrong God whoſe grace is ſufficient. Therefore all ſhould reſolve thorow his ſtrength to ruſh thorow all oppoſiti<g ref="char:EOLhyphen"/>on; he that hath promiſed to be with his ſervants in Goſpel Or<g ref="char:EOLhyphen"/>dinances and Diſpenſations to the end of the world, is <hi>ſemper idem:</hi> I know there are diverſe diſcouragements ariſe both to the Paſtors and Elders.</p>
+            <p>As,</p>
+            <p n="1">1. That natural and general averſeneſſe of men to come in, whence it comes to paſſe that although the Confines of a Par<g ref="char:EOLhyphen"/>riſh be very large and populous, yet few are fit to be admitted, and thoſe peradventure of the lower ſort.</p>
+            <p n="2">2. Multiplicity of ſuch as turn their backs, and lift up the heel.</p>
+            <pb n="31" facs="tcp:116254:20"/>
+            <p n="3">3. Some again, expect either Independency will be eſta<g ref="char:EOLhyphen"/>bliſhed, or a generall tolleration; and this makes many Epiſ<g ref="char:EOLhyphen"/>copally, neutrally, or malignantly affected run hither and thither, rather then come in at the doore of examination; hoping this Government will not long ſtand, rather luſt after their old fleſh-pots, and Egyptian onyons, &amp;c.</p>
+            <p n="4">4. Some are diſcouraged upon fears of violence offered to the Ordinances by profane men, that will in deſpite both of God and Man, lay foul hands upon the ſacred Elements, &amp;c.</p>
+            <p>In anſwer to all theſe and many more ſuch unworthy fcars, I could ſpeak much, but that I have exceeded already and ac<g ref="char:EOLhyphen"/>count them not worthy much debate; therefore I anſwer briefly,</p>
+            <p>To the firſt and ſecond.</p>
+            <p n="1">1. That generall averſneſſe that is in men to the work, ſhould be a ſtrong perſwaſion to us that its of God.</p>
+            <p n="2">2. That although the Confines are large and populous, and but few come in, know its a mercy rather then any cauſe of diſcouragement; for as many are called, and but few choſen; ſo many heare the Word, and but few fit for Sacramental Com<g ref="char:EOLhyphen"/>munion, and ſo long as thoſe that do come in, are ſuch as we may comfortably have fellowſhip withall be not troubled: God had ever the ſmalleſt number: and for my part if the work be once in any good forwardneſſe, I beleeve there is more cauſe to fear too many will lay claim to it, then too few; and will come in faſt enough if they may be received.</p>
+            <p n="3">3. Conſider the condition of thoſe that reject the Ordinance, and thoſe that with humble and holy hearts offer themſelves to the work, thoſe received are godly: Let that comfort, and deſpiſe not the Day of ſmall things. No matter how mean in the worlds account: and let not thoſe poore ſouls be deprived of their deſired ſpirituall nutriment by any cauſeleſſe obſtructions.</p>
+            <p n="3">3. <hi>For that fear of violence,</hi> &amp;c.</p>
+            <p>It cannot enter into my heart that men will be ſo impudent<g ref="char:EOLhyphen"/>ly guilty of this high peece of ſpirituall ſacriledge, to lay vi<g ref="char:EOLhyphen"/>olent and foul hands upon the body and bloud of Chriſt: ſuch muſt eſpecially hale the guilt of his blood upon their own heads.</p>
+            <pb n="32" facs="tcp:116254:21"/>
+            <p>And yet if any ſuch be, it concerns thoſe intruſted with the Holy Ordnance to oppoſe them, by doing all in them lies; ei<g ref="char:EOLhyphen"/>ther by perſwaſion, admonition, complaint to the civil Magi<g ref="char:EOLhyphen"/>ſtrate; who in ſuch caſes bears not the ſwore in vain, and who I am confident if applyed to, will not be wanting to pu<g ref="char:EOLhyphen"/>niſh ſuch according to demerit, and to encourage thoſe con<g ref="char:EOLhyphen"/>cernd: And if neither admonition, or Chriſtian perſwaſion, will ſerve, its very lawfull to reprove them ſharply, and to make open oppoſition to them, let them be never ſo great. A notable example of this we have in <hi>Azariah</hi> the Prieſt, who when <hi>Vzziah</hi> the King would burn Incenſe upon the Altar,<note place="margin">2 <hi>Chron.</hi> 26.18, 19.</note> the Prieſts are commended for withſtanding him, and thruſting him out of the Temple, and the Lord left him not unrewarded, for he was a Leper from that very houre to his dying day; which plainly ſhews that God is preſent in his Ordnances, and will undoubtedly avenge abuſes offered to him in their diſpen<g ref="char:EOLhyphen"/>ſations; and without ſpeedy repentance, and Gods wonderfull mercy, ſuch men may juſtly expect the reward of <hi>Corah, &amp;c.</hi>
+            </p>
+            <p n="4">4. Whereas ſome expect either Independency, or a gene<g ref="char:EOLhyphen"/>rall tolleration; I anſwer, For general tolleration there is no great fear, and if their ſhould, the Presbyterian govern<g ref="char:EOLhyphen"/>ment I hope, will have its freedome as well as others: and as for Independencie, there is no ſuch difference between the Presbyterian government, and that, as can any way give a nullity or change to Church Ordinances: for they muſt have both Paſtors, Teachers, Elders, Deacons, &amp;c. The ſame Ord<g ref="char:EOLhyphen"/>nances only differ in point of appeal; the truth is, Independant Churches are Presbyterian only: Presbyterian as now ſtated, not Independant; I look upon the Independant government as a Presbyterian tree with one branch cut off; by reaſon there is not that proviſion made in point of errour or injury, as in Presbyterian government: but in neither none can communi<g ref="char:EOLhyphen"/>cate without being examined before admittance, nay Epiſco<g ref="char:EOLhyphen"/>pall government reformed, will not admit of promiſcuous diſpenſations.</p>
+            <p n="19">19. Ob. <hi>But what if the King come home? think ye this government will ſtand?</hi>
+            </p>
+            <pb n="33" facs="tcp:116254:21"/>
+            <p>
+               <hi>A.</hi> I beleeve many in our dayes there are, that diſpiſe the day of ſmal things; and with <hi>Sanballet</hi> and <hi>Tobiah,</hi> ſay, <hi>What will theſe weak Iews do?</hi> and who, as I ſaid, are luſting after their old Egyptian fleſh-pots, not caring at all for the Milk and Hony of Canaan, who hope to ſee the wheele turn: but let ſuch know, their hope is as the crackling of thernes: the foun<g ref="char:EOLhyphen"/>dation of God ſtnads ſure, and he that hath laid the foundation will alſo lay the top-ſtone. The government of the Church of God is not grounded upon the King, but upon Jeſus Chriſt,<note place="margin">
+                  <hi>Iſa.</hi> 9.6.</note> that rock againſt which the gates of hell ſhall never be able to prevail: and conſidering the wonderfull works God hath wrought for us of late years, in order to Reformation, hee knows little of God, that doubts of his aſſiſtance for future, much leſſe ſuch as hope for any obſtruction.</p>
+            <p n="20">20. Object. <hi>Doe yee not ſee how Pariſhes are divided about this buſineſſe? in divers places they are altogether by the ears.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. You may eaſily perceive by the perſons that make oppoſition, that the government is of God: carnal and profane men cannot endure it, they cannot ſubject to the yoak of Chriſt; the cauſe is not in Reformation, but in our own cor<g ref="char:EOLhyphen"/>rupt hearts: and hence is it men band themſelves againſt the Lord Chriſt, ſaying, <hi>Let us break his bands aſunder, and caſt his cords from us,</hi> but <hi>the Lord hath them in deriſion, he laughs them to ſcorne,</hi> and he will in due time make his ſtout<g ref="char:EOLhyphen"/>eſt foes his foot-ſtool.</p>
+            <p n="2">2. It was ſaid by Chriſt himſelf, that he came in the fleſh, to make diviſion, <hi>to ſet the father againſt the ſon, ſon againſt father, mother in law againſt the daughter in law,</hi> &amp;c. And although this was not the intent of his coming, yet it is ſo ac<g ref="char:EOLhyphen"/>cidentally, ſo it ever was and will be ſo long as there is ſeed of woman, and ſeed of the ſerpent; there will be, if a Church millitant, a Church malignant, and ſo long as there is fleſh and ſpirit.</p>
+            <pb n="34" facs="tcp:116254:22"/>
+            <p n="21">21. Ob. <hi>But what is the reaſon ſo many Elders are choſen in divers places, and ſo few hold? not half in ſome places.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Many men that are choſen, are as unwilling to undergoe that trouble, as many other are to come in to Communion, and refuſe to hold from divers grounds.</p>
+            <p>Some, for that they feare they ſhall reape diſpleaſure of their neighbours, not having learned to goe thorow good and evil report for Chriſt.</p>
+            <p>Others feare they ſhall ſpend too much time from the world.</p>
+            <p>Some out of fear of oppoſition and difficulty they ſhall meet withall in the work, being as unwilling to enter up<g ref="char:EOLhyphen"/>on the Office by Examination or Tryall, as others to come to Sacrament.</p>
+            <p>But to decline their truſt from ſuch ſiniſter ends, is an unworthy thing; neither ought thoſe that doe imbrace that office, be diſcouraged, although the ſonnes of <hi>Anak</hi> be many and great: its the work of God: and as the Lord Chriſt ſaid in an other caſe to his Diſciples, <hi>[it is I,] bee not afraid,</hi> ſo ſay I to all that God hath called to the worke, Bee not afraid, its Gods worke, and hee will give all ſuitable aſſiſtance, and will in di<g ref="char:EOLhyphen"/>ſpite of men and devils, ſet his Sonne upon his Holy hill.</p>
+            <p n="2">2. No man ought to be diſcouraged, for that the halfe of thoſe choſen hold not; For doubtleſſe, many that have declined after choſen, have done it out of a ſence of their own unfitneſſe; who if they had held, would either have been found unfit upon tryall, or if not hearty to the worke, would have hindred the ſucceſſe thereof.</p>
+            <p n="3">3. If but one third part of thoſe choſen hold, and who are upon tryall found fit; being confirmed by them; their au<g ref="char:EOLhyphen"/>thoritie is as binding as if five times their number had im<g ref="char:EOLhyphen"/>braced it, and the fewer there are, the more commendable
+<pb n="35" facs="tcp:116254:22"/>is their reſolution againſt difficulty, and the leſſe fear of diſ<g ref="char:EOLhyphen"/>ſention: who alſo if they find the work too hard, as op<g ref="char:EOLhyphen"/>portunitie is offered may admit of additional aſſiſtance.</p>
+            <p n="4">4. The numerouſneſſe of the Presbytery, is one of the blocks caſt in the way of reformation; therefore there is leſſe need to ſtumble at their paucity if able to carry on the work.</p>
+            <p>Ob. 22. <hi>But is it meet all men ſhould come before the El<g ref="char:EOLhyphen"/>derſhip to be examined before admittance? me thinks they ſhould go to the houſes of ſome men of beſt rank and converſe with them there.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Vnleſſe in caſe of ſickneſſe or the like, it is very unfit.</p>
+            <p>For,</p>
+            <p n="1">1. Its exemplary, giving occaſion to others to expect the like, and ſets open a doore of chargeing the Elderſhip with partiallity and un-even dealing, in diſtribution of Divine Or<g ref="char:EOLhyphen"/>dinances.</p>
+            <p n="2">2. It muſt needs draw contempt both upon Governours, and Government, and Ordinances.</p>
+            <p n="3">3. It were an endleſſe work, and let men be never ſo high in the world, yet if they ow not ſo much reſpect for the work ſake to thoſe whom God hath ſet over them in the Church, as to come before them, ſuch men will never receive benefit by the Ordinance: And if ſuch a ſpirit predominate, I am ſure its againſt the rule laid down by the Apoſtle, 1 <hi>Tim.</hi> 5.17. Yea and derogates very much from the diſpoſition of every one that are either fit for Church Communion, or Heavenly intertain<g ref="char:EOLhyphen"/>ment; <hi>Mark</hi> 10.15. <hi>Verily, verily, I ſay unto you, whoſoever ſhall not receive the Kingdom of God, as a little child, he ſhall not enter therein:</hi> So alſo <hi>Matth.</hi> 18.4. <hi>Whoſoever therefore ſhall humble himſelf as this little child, the ſame is greateſt in the Kingdome of God: David</hi> a King, yet thought it his honour to be humble,<note place="margin">
+                  <hi>Pſal.</hi> 131.2.</note> profeſſing himſelf to be <hi>as a weaned child.</hi>
+            </p>
+            <pb n="36" facs="tcp:116254:23"/>
+            <p n="4">4. Where the ſoul truly thirſts after Jeſus Chriſt in the Or<g ref="char:EOLhyphen"/>dinances, it will eaſily ſtep over this block, hunger will break ſtone walls. And although the Devil and wicked men indea<g ref="char:EOLhyphen"/>vour to hedge up thy way to the Ordinances, yet if thou ſpiri<g ref="char:EOLhyphen"/>tually hunger and thirſt, all theſe will be laid low; every one that hath the knowledge of Jeſus Chriſt, hath learned to deny himſelf.</p>
+            <p n="5">5. Although the Elderſhip would willingly uſe all good means to win men by love, and ready to deny themſelves as its their dutie for the avoyding of offence, and the enlargement of the Church, yet herein they ſhould but pleaſe ſome, and diſ<g ref="char:EOLhyphen"/>pleaſe many more, and bring ſuch an endleſſe task upon them<g ref="char:EOLhyphen"/>ſelves as would take up much time, and abundantly retard the work.</p>
+            <p n="6">6. Its not a work either commanded or commended to any particular Elderſhip by the Claſſical aſſembly; how ever in ſome extraordinary caſes, ſomething of this nature may be done, left to the diſcretion of the particular Presbytery, and who I doubt not, but will condeſcend to any thing that may promote the work of God.</p>
+            <p>Ob. 23. <hi>But if men and women muſt both be examined it may fall out, a man may be found unfit, and his wife may be re<g ref="char:EOLhyphen"/>ceived, ſometime the man received, and his wife unfit: what a kind of confuſion will this be? doth not the Apoſtle</hi> Paul <hi>ſay,</hi> The unbelieving woman is ſanctified by the believing man, and the unbelieving man by the believing woman, 1 <hi>Cor.</hi> 7.14?</p>
+            <p>
+               <hi>A.</hi> The Apoſtle ſpeaks there concerning the reaſon why unbelievers and believers might cohabit and continue in a con<g ref="char:EOLhyphen"/>jugal eſtate of matrimony. And is not ſo to be underſtood, as that the wife can be ſaved by the husbands faith, or the husband by the wives: this were to croſſe the doctrine of Scripture, and the analogie of faith; for every man muſt know and believe for himſelf. <hi>The juſt ſhall live by his faith;</hi> neither <hi>Abraham, Noah, Iob</hi> or <hi>Daniel,</hi> could deliver any mans ſoul by their faith though never ſo nearly related.</p>
+            <pb n="37" facs="tcp:116254:23"/>
+            <p>The Apoſtle only ſignifies three, that it was unlawfull to depart matrimonial ſociety, becauſe both were not believers; for that if the one did believe it gave their children right to external Chriſtian Church priviledges, and ſuch Ordinances as they were capable of, as Circumciſion under the Law, Bap<g ref="char:EOLhyphen"/>tiſme in time of the Goſpel; not that the Parents can either adde or infuſe Grace into their children, (for the deareſt of Gods Saints may have children deſtitute of Grace, and uncapable either of Church-fellowſhip, or the leaſt ſhare in Jeſus Chriſt;) neither is there the leaſt hint of any thing in this Text of Sa<g ref="char:EOLhyphen"/>cramental Communion, or of things pertaining to life and ſal<g ref="char:EOLhyphen"/>vation; for in ſuch caſes every man and woman muſt plead their own intereſt, and either have particular and peculiar ſa<g ref="char:EOLhyphen"/>ving Grace; or the neareſt relation they have to the moſt Ho<g ref="char:EOLhyphen"/>ly can do them no good. <hi>He that believes, ſhall be ſaved; he that believeth on the Sonne, hath everlaſting life; and he that believeth not the Sonne ſhall not ſee life, but the wrath of God abides on him.</hi>
+               <note place="margin">
+                  <hi>Iohn</hi> 3.16.</note>
+            </p>
+            <p>And hence is it that in the great and general judgement, men and women of neareſt relations are ſeparated: <hi>Two ſhall be in the field, the one taken and the other left; two women grinding at the mill, the one taken and the other left,</hi> March. 24.40, 41.</p>
+            <p n="2">2. As in the Kingdome of Heaven there is neither marry<g ref="char:EOLhyphen"/>ing,<note place="margin">
+                  <hi>Mark</hi> 12.16.</note> nor giving in marriage but all are as the Angels; ſo the Church of God on earth, take, no cognizance, whether men be married, or ſingle, wives, or Virgins; but he or ſhe thats ca<g ref="char:EOLhyphen"/>pable of Church Communion, ought to be admitted, and muſt be viſible Saints: And although never ſo nearly related, if not, ſo, ought to be ſhut out.</p>
+            <p n="3">3. Suppoſe a man up<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> examination be admitted, and his wife reſpited for her incapacity a while, till God ſhall enable her; or ſuppoſe the wife be admitted, and her husband for like reaſon ſuſpended, is it not better for that party found fit to be admitted, and the party unfit to be debarred, then either both to be admitted, or both kept back; or that either of them
+<pb n="38" facs="tcp:116254:24"/>ſhould deny themſelves the benefit of the Ordinance.</p>
+            <p>For,</p>
+            <p n="1">1. Its agreeable to the Word of God, and Ordinances of the Church, and tends much to the comfort of the Communicant to be admitted, if worthy; and to admit the unworthy, is con<g ref="char:EOLhyphen"/>trary to all.</p>
+            <p n="2">2. What comfort can it be to thee, while thou art participa<g ref="char:EOLhyphen"/>ting the body and bloud of Jeſus Chriſt, if thy wife unworthi<g ref="char:EOLhyphen"/>ly admitted, not diſcerning the Lords Body, be eating and drinking damnation to her ſelf? or contrariwiſe, if thy wife be a worthy Communicant, it will be the terror of her ſoul, to ſee her husband hailing deſtruction upon himſelf, by prepoſte<g ref="char:EOLhyphen"/>rous and unwarrantable thruſting himſelf upon ſuch Divine diſpleaſure.</p>
+            <p>Why ſhouldſt thou endeavour to draw the guilt of thy bloud upon the Elderſhip? or why ſhouldſt thou pull ruine upon thy ſelf? And although thou beeſt not capable, bleſſe God for a believing wife, or if thy wife uncapable and thou admitted, endeavour her inſtruction that ſhe may in due time be alſo re<g ref="char:EOLhyphen"/>ceived in to Sacramental Communion here, and both ſpiritu<g ref="char:EOLhyphen"/>ally united to Jeſus Chriſt.</p>
+            <p n="3">3. Its the want of knowledge of Jeſus Chriſt, ignorance of the Doctrine of regeneration and reformation, that makes men ſcruple hereat, for any ſuch reaſon, none being more ready to ruſh upon Divine Ordinances to their ruine, then men and wo<g ref="char:EOLhyphen"/>men moſt uncapable to receive them rightly.</p>
+            <p>Ob. 24. <hi>What are the principal points that will be en<g ref="char:EOLhyphen"/>quired of by the Elderſhip what time men come before them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are very plain and eaſie to be underſtood, and every man and woman may reade them in the Ordinance of Parliament, wherein are ſet down certain rules and directions concerning Admiſſion and ſuſpenſion in point of ignorance and ſcandal, but for that all have not that Ordinance, I ſhall
+<pb n="36" facs="tcp:116254:24"/>hint out the Heads briefly as followeth. All admitted ought to know.</p>
+            <p n="1">1. That there is a God: That there is but one True and everliving God, maker of Heaven and Earth, and Governour of all things. That this onely true God is the God whom we worſhip. That this God is but one, yet three diſtinct Per<g ref="char:EOLhyphen"/>ſons: the Father, Sonne and Holy Ghoſt, all equally God.</p>
+            <p n="2">2. That God created man in his own Image in Know<g ref="char:EOLhyphen"/>ledge, righteouſneſſe, and true holineſſe. That by one man ſinne entred the world, and death by ſinne. That thereby al<g ref="char:EOLhyphen"/>ſo all men are dead in treſpaſſes and ſinnes, and are by Nature children of wrath, and ſo liable to eternal death, the wages of every ſinne.</p>
+            <p n="3">3. That there is but one Mediator between God and man, the man Chriſt Jeſus, who is alſo over all, God bleſſed for ever; neither is their ſalvation in any other. That he was concei<g ref="char:EOLhyphen"/>ved by the Holy Ghoſt, and born of the Virgin <hi>Mary.</hi> That he died upon the Croſſe to ſave his People from their ſinnes. That he roſe the third day from the Dead: aſcended into Hea<g ref="char:EOLhyphen"/>ven: ſitteth at the right hand of God; and maketh continual Interceſſion for us, of whoſe fulneſſe we receive all Grace ne<g ref="char:EOLhyphen"/>ceſſary to ſalvation.</p>
+            <p n="4">4. That Chriſt and his benefits are applied onely by Faith: that Faith is the gift of God; and that we have it not of our ſelves, but is wrought in us by the Word and Spirit of God.</p>
+            <p n="5">5. That Faith is that Grace whereby we believe and truſt in Chriſt for remiſſion of ſinnes, and life everlaſting, accord<g ref="char:EOLhyphen"/>ing to the promiſe of the Goſpel: That whoſoever believes not on the Sonne of God, ſhall not ſee life, but the wrath of God abides on him to Eternity.</p>
+            <p n="6">6. That they who truely repent of their ſinnes, do ſee them ſorrow for them, and turn from them to the Lord, and that ex<g ref="char:EOLhyphen"/>cept men repent, they ſhall ſurely periſh.</p>
+            <p n="7">7. That a godly life is conſcionably ordered according to
+<pb n="40" facs="tcp:116254:25"/>the Word of God in holyneſſe and righteouſneſſe, without which no man ſhall ſee the Lord.</p>
+            <p n="8">8. That the Sacraments are Seals of the Covenant of grace, in the bloud of Chriſt. That the Sacraments of the New Te<g ref="char:EOLhyphen"/>ſtament are Baptiſme, and the Lords Supper. That the outward Elements in the Lords Supper, are Bread and Wine, and do ſig<g ref="char:EOLhyphen"/>nifie the Body and Bloud of Chriſt crucified, which the worthy receiver by Faith, doth partake of in this Sacrament, which Chriſt hath likewiſe ordained for a remembrance of his death. That whoſoever eateth and drinketh unworthily, is guilty of the Body and Bloud of the Lord; and therefore that every one is to examine himſelf, leſt he eat and drink judgement to himſelf, not diſcerning the Lords Body.</p>
+            <p n="9">9. That the ſouls of the Faithfull after death, do imme<g ref="char:EOLhyphen"/>diately live with Chriſt in bleſſedneſſe. And that the ſouls of the wicked do immediately go into Hell torments. That there ſhall be a Reſurrection of the bodies both of juſt and unjuſt, at the laſt day, at which time all ſhall appear before the judge<g ref="char:EOLhyphen"/>ment ſeat of Chriſt, to receive according to what they have done in the body, whether it be good or evil, and that the righ<g ref="char:EOLhyphen"/>teous ſhal go into Life eternal, and the wicked into everlaſting puniſhment.</p>
+            <p>Ob. 25. <hi>What are the crimes that make men uncapable of admittance in point of ſcandal,</hi>
+            </p>
+            <p>
+               <hi>A.</hi>
+               <list>
+                  <item>1. All perſons that ſhall blaſphemouſly ſpeak or write any thing of God, his holy Word or Sacraments.</item>
+                  <item>2. An Inceſtuous perſon.</item>
+                  <item>3. An Adulterer.</item>
+                  <item>4. A Fornicator.</item>
+                  <item>5. A Drunkard.</item>
+                  <item>6. A profane Swearer or Curſer.</item>
+                  <item>7. One that hath taken away the life of any Perſon mali<g ref="char:EOLhyphen"/>ciouſly.</item>
+                  <item>8. All worſhippers of Images, Croſſes, Crucifixes, or Reliques: All that ſhall make any Image of the Trinitie, or
+<pb n="41" facs="tcp:116254:25"/>any perſon thereof, all Religious worſhippers of Saints, An<g ref="char:EOLhyphen"/>gels, or any meer Creatures.</item>
+                  <item>9. Any perſon that profeſſeth himſelf not to be in charitie with his Neighbour.</item>
+                  <item>10. Any perſon that ſhall challenge any other perſon by word, meſſage, or writing, to fight, or that ſhall accept ſuch challenge, and agree thereunto: any perſon that ſhall know<g ref="char:EOLhyphen"/>ingly carry any ſuch challenge by word, meſſage, or wri<g ref="char:EOLhyphen"/>ting.</item>
+                  <item>11. Any perſon that on the Lords-Day ſhall uſe any Dancing, Playing at Dice or Cards, or any other Game, Maſquing, Wake, Shooting, Bowling, playing at Foot<g ref="char:EOLhyphen"/>ball, or Stool-ball, Wreſtling, or that ſhall make or re<g ref="char:EOLhyphen"/>ſort to any Playes, Interluds, Fencing, Bull-baiting, or Bear-baiting; or ſhall uſe Hawking, Hunting, or Cour<g ref="char:EOLhyphen"/>ſing, Fiſhing, or Fowling: or that ſhall publikely expoſe any Wares to ſale, otherwaiſe then is provided by an Or<g ref="char:EOLhyphen"/>dinance of Parliament of the 6. of <hi>April,</hi> 1644. Any per<g ref="char:EOLhyphen"/>ſon that ſhall travel upon the Lords-Day, without reaſo<g ref="char:EOLhyphen"/>nable cauſe.</item>
+                  <item>12. Any perſon that keepeth a known Stewes or Brothel<g ref="char:EOLhyphen"/>houſe, or that ſhall ſolicit the Chaſtitie of any perſon for him<g ref="char:EOLhyphen"/>ſelf or any other.</item>
+                  <item>13. Any perſon, Father or Mother, that ſhall conſent to the marriage of their Child to a Papiſt, or any perſon that ſhall marry a Papiſt.</item>
+                  <item>14. Any perſon that ſhall repair for any advice to any Witch, Wizard, or Fortune-teller.</item>
+                  <item>15. Any perſon that ſhall aſſault his Parents, or any Ma<g ref="char:EOLhyphen"/>giſtrate, Miniſter, or Elder, in the Execution of his Of<g ref="char:EOLhyphen"/>fice.</item>
+                  <item>16. Any perſon that ſhall be Legally attainted of Bar<g ref="char:EOLhyphen"/>retrie, Forgerie, Extortion, or Briberie: And the ſeve<g ref="char:EOLhyphen"/>rall Elderſhips ſhall have power likewiſe to ſuſpend from
+<pb n="42" facs="tcp:116254:26"/>the Sacrament of the LORDS-Supper, all Miniſters that ſhall be duely proved to be guiltie of any of the Crimes aforeſaid, from giving or receiving the Sacrament of the LORDS-Supper.</item>
+               </list>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb facs="tcp:116254:26"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>James Cranford. John Bellamie.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>Pag 4. line 6. <hi>For the journey</hi> reade <hi>their journey.</hi> l. 9. <hi>for no way,</hi> r. <hi>in a way.</hi> p. 4. Ob. 4. r. <hi>appear.</hi> p. 4. l. 24 <hi>for tresbytery,</hi> r. <hi>Presbyte<g ref="char:EOLhyphen"/>ry.</hi> p. 10. l. 34. <hi>for deſolute,</hi> r. <hi>deſtitute.</hi> p. 11. l. 8. <hi>for gelding,</hi> r. <hi>gould ring.</hi> p. 12. l. 5. <hi>for which,</hi> r. <hi>when.</hi> p. 15. l. 17. <hi>for Apoſiles,</hi> r. <hi>appeals.</hi> p. 16. l. 10. <hi>for hardly,</hi> r. <hi>Lordly.</hi> p. 16. l. 11. <hi>for dominum,</hi> r. <hi>domini<g ref="char:EOLhyphen"/>on.</hi> p. 16. l. 31. <hi>for record,</hi> r. <hi>retard.</hi> p. 22. l. 9. <hi>for injuſtifiably,</hi> r. <hi>inevi<g ref="char:EOLhyphen"/>tably.</hi> p. 24. l. 34. <hi>for their Idols,</hi> r. <hi>the Iewes.</hi> p. 30. l. 3. <hi>for preaches Preachers.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
